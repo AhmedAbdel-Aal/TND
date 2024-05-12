@@ -1,5 +1,6 @@
 import os
 import torch
+import json
 from torch.utils.data import Dataset
 from torch.nn.utils.rnn import pad_sequence
 from transformers import LongformerTokenizerFast
@@ -9,8 +10,9 @@ class ECHRDataset(Dataset):
         self.data_path = data_path
         self.tokenizer = LongformerTokenizerFast.from_pretrained(tokenizer_name)
         self.max_length = max_length
+        self.data = []
 
-        print(f"Using Tokenizer {len(tokenizer_name)} with max_length {self.max_length}")
+        print(f"Using Tokenizer {tokenizer_name} with max_length {self.max_length}")
 
         # Load and preprocess the data
         self.load_and_preprocess()
@@ -18,7 +20,7 @@ class ECHRDataset(Dataset):
     def load_and_preprocess(self):
         files = [f for f in os.listdir(self.data_path) if f.endswith('.json')]
         for file in files:
-            path = os.path.join(self.directory, file)
+            path = os.path.join(self.data_path, file)
             with open(path, 'r', encoding='utf-8') as f:
                 document = json.load(f)
                 text = document.get('facts', '')
@@ -30,9 +32,9 @@ class ECHRDataset(Dataset):
 
     def __getitem__(self, idx):
         item = self.data[idx]
-        text = item['text']
-        label = item['label']
-        encoded = self.tokenizer(text, truncation=True, padding='max_length', max_length=self.max_len)
+        text = item['facts']
+        label = int(item['importance'])
+        encoded = self.tokenizer(text, truncation=True, padding='max_length', max_length=self.max_length)
         return {
             'input_ids': encoded['input_ids'],
             'attention_mask': encoded['attention_mask'],
