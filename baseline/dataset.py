@@ -33,7 +33,7 @@ class ECHRDataset(Dataset):
     def __getitem__(self, idx):
         item = self.data[idx]
         text = item['facts']
-        label = int(item['importance'])
+        label = int(item['importance']) - 1
         encoded = self.tokenizer(text, truncation=True, padding='max_length', max_length=self.max_length)
         return {
             'input_ids': encoded['input_ids'],
