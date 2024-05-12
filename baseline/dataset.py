@@ -38,7 +38,7 @@ class ECHRDataset(Dataset):
         return {
             'input_ids': encoded['input_ids'],
             'attention_mask': encoded['attention_mask'],
-            'label': torch.tensor(label, dtype=torch.float)
+            'label': label,
         }
 
     def collate_fn(self, batch):
