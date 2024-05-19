@@ -6,7 +6,7 @@ from torch.nn.utils.rnn import pad_sequence
 from transformers import LongformerTokenizerFast
 
 class ECHRDataset(Dataset):
-    def __init__(self, data_path, tokenizer_name = "allenai/longformer-base-4096" , max_length=512):
+    def __init__(self, data_path, tokenizer_name = "allenai/longformer-base-4096" , max_length=4096):
         self.data_path = data_path
         self.tokenizer = LongformerTokenizerFast.from_pretrained(tokenizer_name)
         self.max_length = max_length
@@ -23,22 +23,26 @@ class ECHRDataset(Dataset):
             path = os.path.join(self.data_path, file)
             with open(path, 'r', encoding='utf-8') as f:
                 document = json.load(f)
+                itemid = document.get('itemid', '')
                 text = document.get('facts', '')
+                text += document.get('law', '')
+                text += document.get('procedure', '')
+                text += document.get('conclusion', '')
                 label = document.get('importance', '')
-                self.data.append({'facts': text, 'importance': label})
+                self.data.append({'itemid': itemid, 'text': text, 'importance': label})
 
     def __len__(self):
         return len(self.data)
 
     def __getitem__(self, idx):
         item = self.data[idx]
-        text = item['facts']
+        text = item['text']
         label = int(item['importance']) - 1
         encoded = self.tokenizer(text, truncation=True, padding='max_length', max_length=self.max_length)
         return {
             'input_ids': encoded['input_ids'],
             'attention_mask': encoded['attention_mask'],
-            'label': label,
+            'label': torch.tensor(label),
         }
 
     def collate_fn(self, batch):
