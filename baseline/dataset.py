@@ -24,10 +24,10 @@ class ECHRDataset(Dataset):
             with open(path, 'r', encoding='utf-8') as f:
                 document = json.load(f)
                 itemid = document.get('itemid', '')
-                text = document.get('facts', '')
-                text += document.get('law', '')
-                text += document.get('procedure', '')
-                text += document.get('conclusion', '')
+                #text = document.get('facts', '')
+                #text += document.get('law', '')
+                #text += document.get('procedure', '')
+                text = document.get('conclusion', '')
                 label = document.get('importance', '')
                 self.data.append({'itemid': itemid, 'text': text, 'importance': label})
 
