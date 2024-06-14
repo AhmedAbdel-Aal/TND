@@ -1,6 +1,5 @@
 import os
 import ollama
-from groq import Groq
 from transformers import AutoTokenizer
 from nltk import tokenize
 from utils import count_tokens, get_sentences, overlapping_split
@@ -31,7 +30,7 @@ class SummaryAgent:
         
         if self.backend == 'ollama':
                 response = ollama.chat(
-                        model='mistral:7b', 
+                        model='llama3:8b', 
                         messages=[
                         {"role": "system", "content": system_message},
                         {"role": "user", "content": prompt},        
@@ -54,14 +53,14 @@ class SummaryAgent:
     def init_summary(self, prompt, system_message= "You are a helpful assistant."):
         
         print("   init_summary ....")
-        system_message = "You are expert legal lawyer with European Court of Human Rights."
+        system_message = "You are expert legal lawyer with European Court of Human Rights (ECHR)."
 
         user_prompt = f"""
             Could you please provide a summary of the given legal case, including all key points and supporting details?
             The summary should be comprehensive and accurately reflect the main and most important facts, procedure, and arguments presented in the original text,
             while also being concise and easy to understand. To ensure accuracy, please read the text carefully and pay attention to any nuances or complexities in the language.
 
-            Do not provide any explanations or text apart from the translation.
+            Do not provide any explanations or text apart from the summary.
             case: {prompt}
             Summary:       
          """
@@ -75,10 +74,10 @@ class SummaryAgent:
     def reflect(self, source_text, summary):
 
         print("   reflect ....")
-        system_message = "You are a helpful assistant."
+        system_message = "You are expert legal lawyer with European Court of Human Rights (ECHR)."
         reflection_print = f"""
             Your task is to carefully read a source legal text and its legal summary, and then give constructive criticism and helpful suggestions to improve the summary. \
-            The final style and tone of the translation should match the style of legal text.
+            The final style and tone of the summmary should match the style of legal text.
 
             The source text and initial summary, delimited by XML tags <SOURCE_TEXT></SOURCE_TEXT> and <SUMMARY></SUMMARY>, are as follows:
 
@@ -99,6 +98,8 @@ class SummaryAgent:
             Write a list of specific, helpful and constructive suggestions for improving the summary.
             Each suggestion should address one specific part of the summary.
             Output only the suggestions and nothing else.
+            
+            Here is a list of suggestions:
         """
         response = self.get_completion(reflection_print, system_message)
         self.cache['reflection'] = response
@@ -108,7 +109,7 @@ class SummaryAgent:
     def improve(self, source_text, summary, reflection):
         
         print("   improve ....")
-        system_message = "You are expert legal lawyer with European Court of Human Rights."
+        system_message = "You are expert legal lawyer with European Court of Human Rights (ECHR)."
         reflection_print = f"""
                 Your task is to carefully read, then edit, a legal summary from {source_text} to {summary}, taking into
                 account a list of expert suggestions and constructive criticisms.
@@ -135,7 +136,9 @@ class SummaryAgent:
                 (iii) clarity (by ensuring the summary is easy to understand),
                 (iv) coverage (by including all important aspects of the source text).
 
-                Output only the new translation and nothing else.
+                Output only the new summary and nothing else.
+                
+                Here is the revised summary:
             """
         response = self.get_completion(reflection_print, system_message)
         self.cache['improvment'] = response
@@ -163,6 +166,7 @@ class SummaryAgent:
         
         for key in legal_case_dict:
             if key in long_keys:
+                print(f"Summarizing {key}")
                 num_tokens = count_tokens(legal_case_dict[key])
                 if num_tokens > self.token_limit:
                     overlapping_splits = overlapping_split(legal_case_dict[key])
