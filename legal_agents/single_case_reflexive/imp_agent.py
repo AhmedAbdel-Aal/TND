@@ -5,14 +5,15 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
 class ImpAgent:
-    def __init__(self, backend = 'groq', model_name="llama3-8b-8192"):
+    def __init__(self, backend="groq", model_name="llama3-8b-8192"):
         self.model_name = model_name
         self.cache = {}
         self.backend = backend
         self.token_limit = 7500
 
-        if backend == 'groq':
+        if backend == "groq":
             self.groq_client = Groq(api_key=os.getenv("GROQ_API_TOKEN"))
 
     def __str__(self) -> str:
@@ -21,36 +22,37 @@ class ImpAgent:
             s += f"\n{key}: {value}"
         return s
 
+    def get_completion(self, prompt, system_message="You are a helpful assistant."):
 
-
-    def get_completion(self, prompt, system_message= "You are a helpful assistant."):
-        
-        if self.backend == 'ollama':
-                response = ollama.chat(
-                        model='llama3:8b', 
-                        messages=[
-                        {"role": "system", "content": system_message},
-                        {"role": "user", "content": prompt},        
-                        ]
-                    )
-                return response['message']['content']
-        elif self.backend == 'groq':
-                chat_completion = self.groq_client.chat.completions.create(
-                    model="llama3-8b-8192",
-                        messages=[
-                        {"role": "system", "content": system_message},
-                        {"role": "user", "content": prompt},        
-                        ]
-                 )
-                return chat_completion.choices[0].message.content
+        if self.backend == "ollama":
+            response = ollama.chat(
+                model="llama3:8b",
+                messages=[
+                    {"role": "system", "content": system_message},
+                    {"role": "user", "content": prompt},
+                ],
+            )
+            return response["message"]["content"]
+        elif self.backend == "groq":
+            chat_completion = self.groq_client.chat.completions.create(
+                model="llama3-8b-8192",
+                messages=[
+                    {"role": "system", "content": system_message},
+                    {"role": "user", "content": prompt},
+                ],
+            )
+            return chat_completion.choices[0].message.content
         else:
             raise ValueError("Please provide a valid inference: 'ollama' or 'groq'")
-        
-       
-    def init_classify(self, source_text, principles, system_message= "You are a helpful assistant."):
-        
+
+    def init_classify(
+        self, source_text, principles, system_message="You are a helpful assistant."
+    ):
+
         print("   init_classify ....")
-        system_message = "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        system_message = (
+            "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        )
 
         user_prompt = f"""
             Please classify a case into one of three categories of importance: [High, Medium, Low]
@@ -82,16 +84,15 @@ class ImpAgent:
             importance class:       
          """
         response = self.get_completion(user_prompt, system_message)
-        self.cache['summary'] = response 
+        self.cache["summary"] = response
         return response
-    
-
-
 
     def reflect(self, source_text, principles, imp_class):
 
         print("   reflect ....")
-        system_message = "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        system_message = (
+            "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        )
         reflection_print = f"""
             Your task is to carefully read a legal summary text with highlighted legal principles and the given importance class,
             and then give constructive criticism and helpful suggestions. \
@@ -123,14 +124,15 @@ class ImpAgent:
             Here is a list of suggestions:
         """
         response = self.get_completion(reflection_print, system_message)
-        self.cache['reflection'] = response
+        self.cache["reflection"] = response
         return response
-        
 
     def improve(self, source_text, principles, imp_class, reflection):
-        
+
         print("   improve ....")
-        system_message = "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        system_message = (
+            "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        )
         reflection_print = f"""
                 Your task is to carefully read, then reclassify the importance score of legal case into
                 one of three classes [high, Medium, Low], taking into account a list of expert suggestions and constructive criticisms.
@@ -166,16 +168,13 @@ class ImpAgent:
                 Here is the new importance class:
             """
         response = self.get_completion(reflection_print, system_message)
-        self.cache['improvment'] = response
+        self.cache["improvment"] = response
         return response
-    
+
     def classify(self, source_text, principles):
-         
+
         imp_class = self.init_classify(source_text, principles)
         reflection = self.reflect(source_text, principles, imp_class)
         improved_summary = self.improve(source_text, principles, imp_class, reflection)
 
         return improved_summary
-    
-
-
