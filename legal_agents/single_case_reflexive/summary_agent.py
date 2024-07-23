@@ -1,4 +1,5 @@
 import os
+import json
 import ollama
 from utils import count_tokens, get_sentences, overlapping_split
 from dotenv import load_dotenv
@@ -57,9 +58,10 @@ class SummaryAgent:
         )
 
         user_prompt = f"""
-            Could you please provide a summary of the given legal case, including all key points and supporting details?
-            The summary should be comprehensive and accurately reflect the main and most important facts, procedure, and arguments presented in the original text,
-            while also being concise and easy to understand. To ensure accuracy, please read the text carefully and pay attention to any nuances or complexities in the language.
+    Could you please provide a summary of the given legal case, including all key points and supporting details?
+    The summary should include facts, procedure, and legal arguments, and highlight the relation between facts, procedure, and legal arguments. 
+    The summary should link the complaints of the victim with those of defendant government or other parties to the procedure before the court
+    The summary should emphasize the reasons why the judges consider that certain facts and circumstances have a consequence on the way norms and standard of the convention are applied
 
             Do not provide any explanations or text apart from the summary.
             case: {prompt}
@@ -90,8 +92,8 @@ class SummaryAgent:
             </SUMMARY>
 
             When writing suggestions, pay attention to whether there are ways to improve the summary's \n\
-            (i) accuracy (by ensuring it correctly reflects the main points of the source text),\n\
-            (ii) conciseness (by removing unnecessary details and repetitions),\n\
+            (i) consistency (by identifying the patterns that link facts to norms),\n\
+            (ii) conciseness (by identifying exact reason why facts have legal consequences),\n\
             (iii) clarity (by ensuring the summary is easy to understand),\n\
             (iv) coverage (by including all important aspects of the source text).\n\
             
@@ -145,6 +147,27 @@ class SummaryAgent:
         self.cache["improvment"] = response
         return response
 
+    def summarize_across(self, prompt, system_message="You are a helpful assistant."):
+
+        print("   across_summary ....")
+        system_message = (
+            "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        )
+
+        user_prompt = f"""
+Given a legal case in specific parts (facts, procedure, law, and conclusion), your task is to provide one summary for all the parts,
+Given that there is a relation between facts and legal norms, make sure to highlight that relation across different sections and by identifying the main arguments that build that relation and the reasons provided there
+Make sure to follow chronological structure
+
+            Do not provide any explanations or text apart from the summary.
+            case: {prompt}
+            Summary:       
+         """
+        response = self.get_completion(user_prompt, system_message)
+        self.cache["summary"] = response
+        return response
+
+
     def summarize(self, source_text):
 
         init_summary = self.init_summary(source_text)
@@ -177,3 +200,21 @@ class SummaryAgent:
                 summarized_legal_case[key] = legal_case_dict[key]
 
         return summarized_legal_case
+    
+    def summarize_across_parts(self, summarized_legal_case_dict):
+        # from json case to txt file or yaml
+        result = {}
+        to_be_combined = {}
+        keys_to_combine = ["procedure", "law", "facts", "conclusion"]
+        for key in summarized_legal_case_dict.keys():
+            if key in keys_to_combine:
+                to_be_combined[key] = summarized_legal_case_dict[key]
+            else:
+                result[key] = summarized_legal_case_dict[key]   
+        print("to_be_combined: ", to_be_combined.keys())
+        print("result keys: ", result.keys())
+        to_be_combined = json.dumps(to_be_combined)
+        assert isinstance(to_be_combined, str)
+        result['summarized_case'] = self.summarize_across(to_be_combined)
+                
+        return result

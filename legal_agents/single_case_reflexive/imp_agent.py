@@ -55,8 +55,10 @@ class ImpAgent:
         )
 
         user_prompt = f"""
-            Please classify a case into one of three categories of importance: [High, Medium, Low]
-            Label the cases with an importance score based on the following criteria:
+            Please classify a case into one of three categories of importance: [High, Medium, Low],
+            you should provide reasons for your classification,
+            the reason should show the relation between facts, procedure, legal arguments, and the importance of the case,
+            Label the cases with an importance score based on the following criteria,:
             
             High: All judgments, decisions, and advisory opinions that make a significant contribution
             to the development, clarification or modification of its case law,
