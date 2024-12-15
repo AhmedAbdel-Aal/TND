@@ -1,0 +1,1648 @@
+NARROW YOUR SEARCH
+DOCUMENT COLLECTIONS
+GRAND CHAMBER
+CASE OF ALBERT AND OTHERS v. HUNGARY
+(Application no. 5294/14)
+JUDGMENT
+Art 34 • Victim • Impact on individual shareholders of legislation putting banks under central supervising authorities and resulting in significant loss of their operational autonomy • Drawing distinction between complaints brought by shareholders about measures affecting their rights as shareholders and those about acts affecting companies • Shareholders not considered victims of acts affecting their companies unless they are closely identified with each other and “exceptional circumstances” preclude the affected companies from bringing the cases to the Court on their own behalf • Incidental and indirect effect of legislation on applicant shareholders, not directly affecting their rights as such • Applicant shareholders not closely identified with their banks • No weighty and convincing reasons demonstrating exceptional circumstances for allowing shareholders to bring complaints on banks’ behalf
+STRASBOURG
+7 July 2020
+This judgment is final but it may be subject to editorial revision.
+In the case of Albert and Others v. Hungary,
+The European Court of Human Rights, sitting as a Grand Chamber composed of:
+Ksenija Turković, President,
+ Robert Spano,
+ Linos-Alexandre Sicilianos,
+ Angelika Nußberger,
+ Síofra O’Leary,
+ Helen Keller,
+ André Potocki,
+ Dmitry Dedov,
+ Branko Lubarda,
+ Stéphanie Mourou-Vikström,
+ Pere Pastor Vilanova,
+ Lәtif Hüseynov,
+ Jolien Schukking,
+ Lado Chanturia,
+ Darian Pavli,
+ Erik Wennerström,
+ Saadet Yüksel, judges,
+and Søren Prebensen, Deputy Grand Chamber Registrar,
+Having deliberated in private on 18 December 2019, 28 May and 5 June 2020,
+Delivers the following judgment, which was adopted on that date:
+PROCEDURE
+1.  The case originated in an application (no. 5294/14) against Hungary lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by Ms Józsefné Albert and 240 other Hungarian nationals, whose details are set out in the appendix, on 10 January 2014.
+2.  The applicants were represented by Mr I. Gárdos, a lawyer practising in Budapest. The Hungarian Government (“the Government”) were represented by their Agent, Mr Z. Tallódi, from the Ministry of Justice.
+3.  The applicants alleged, in particular, that the restriction of their rights to influence the operation of the banks in which they held shares, stemming from the Integration Act of 2013, had violated their rights under Article 1 of Protocol No. 1 to the Convention.
+4.  The application was allocated to the Fourth Section of the Court (Rule 52 § 1 of the Rules of Court). On 4 April 2017 it declared the applicants’ complaints under Article 1 of Protocol No. 1 admissible and joined to the merits two objections by the Government concerning the applicants’ victim status.
+5.  As Mr Péter Paczolay, the judge elected in respect of Hungary, withdrew from sitting in the case (Rule 28 § 3), the President decided to appoint Mr Robert Spano, the judge elected in respect of Iceland, to sit as an ad hoc judge (Article 26 § 4 of the Convention and Rule 29 § 1).
+6.  A Chamber of the Fourth Section composed of Ganna Yudkivska, Paulo Pinto de Albuquerque, Robert Spano, Faris Vehabović, Iulia Antoanella Motoc, Carlo Ranzoni, Marko Bošnjak, judges, and also of Marialena Tsirli, Section Registrar, delivered a judgment on 29 January 2019. The Court discontinued the proceedings in respect of some of the applicants, who had passed away without heirs or relatives expressing any wish to continue the proceedings before the Court. As regards the remaining applicants, it held, by a majority, that the impugned legislation had not interfered with the applicants’ rights in view of the scope of their complaints, that they could not therefore claim to be victims of the alleged violations within the meaning of Article 34 of the Convention, and that there had been no violation of Article 1 of Protocol No. 1. The dissenting opinion of Judge Pinto de Albuquerque was annexed to the judgment.
+7.  On 29 April 2019 the applicants requested the referral of the case to the Grand Chamber in accordance with Article 43 of the Convention. On 24 June 2019 the panel of the Grand Chamber granted that request.
+8.  The composition of the Grand Chamber was determined according to the provisions of Article 26 §§ 4 and 5 of the Convention and Rule 24 of the Rules of Court.
+9.  The applicants and the Government each filed further written observations (Rule 59 § 1) on the merits.
+10.  A public hearing took place in the Human Rights Building, Strasbourg, on 18 December 2019.
+There appeared before the Court:
+(a)  for the Government
+Mr Z. Tallódi,  Agent,
+Ms M. Weller, Government Co-Agent,
+Mr T. Kende,
+Mr P. Sonnevend,  Advisers;
+(b)  for the applicants
+Mr P. Gárdos, Counsel,
+Mr R. Mosonyi,
+Mr D. Karsai,
+Ms O. Csaba, Advisers.
+The Court heard addresses by Mr Gárdos and Mr Tallódi and their replies to the questions from judges.
+THE FACTS
+11.  The applicants are two hundred and thirty-seven individual shareholders in two savings banks, Kinizsi Bank Zrt. (“Kinizsi Bank”) and Mohácsi Takarék Bank Zrt. (“Mohácsi Bank”). A list of the applicants is set out in the appendix, which also indicates the financial institution in which they hold shares.
+12.  At the time the application was lodged on 10 January 2014, the applicants as individual shareholders held collectively some 98.28% of shares in Kinizsi Bank and some 87.65% of shares in Mohácsi Bank. Among those who applied to the Court, the largest individual shareholder in Kinizsi Bank owned around 25% of shares with an average shareholder owning around 0.015%, whereas the largest individual shareholder in Mohácsi Bank owned around 16% with an average shareholder owning around 0.016%.
+13.  The two institutions were established in 1958 and originally belonged to the sector of savings cooperatives, with their clientele being mostly from the respective local communities.
+14.  In 1993 the whole sector of savings cooperatives, including the predecessor institutions of Kinizsi Bank and Mohácsi Bank, underwent a voluntary restricted integration involving 235 savings cooperatives with a view to enhancing the cooperatives’ market position and financial security. With the active support of the Hungarian Government and the PHARE Programme of the European Union, they entered into an integration agreement.
+15.  The key institutions of the integration were the National Association of Savings Cooperatives (Országos Takarékszövetkezeti Szövetség, “OTSZ”), the Savings Bank (Takarékbank Zrt.) and the National Fund for the Institutional Protection of Savings Cooperatives (Országos Takarékszövetkezeti Intézményvédelmi Alap, “OTIVA”), the latter organisation having been created as part of the integration.
+16.  OTIVA improved the security of deposits placed with the savings cooperatives, with a view to preventing crisis situations, and improved the stability of the participating cooperatives.
+17.  The Savings Bank was founded by savings cooperatives in 1989 as a commercial bank with a “strategic aim ... to provide support for the savings cooperative industry...”. Until relevant changes were introduced by the “Integration Act” and the “Amendments” (see paragraphs 34-35 below), the total shareholding of the savings cooperatives and certain other banks in the Savings Bank had exceeded 60%. They held series “B” preference shares in the Savings Bank, ensuring that no decision on strategic matters could be made without the approval of the holders of these shares. Approval could be given by the majority of votes of the shareholders.
+18.  In 2012 the Hungarian Government became an indirect owner of the Savings Bank when the Hungarian Development Bank Ltd (Magyar Fejlesztesi Bank Zrt., “the MFB”), which was fully owned by the State, purchased a stake in Deutsche Zentral-Genossenschaftsbank AG, which at the time owned 38.5% of the Savings Bank’s shares.
+19.  In 2006 and 2008, respectively, Kinizsi Bank and Mohácsi Bank were transformed into companies limited by shares and obtained their licences for banking operations from the Hungarian Financial Supervisory Authority (Pénzügyi Szervek Állami Felügyelete, “the Supervisory Authority”; in 2013, following a reform, the Supervisory Authority was replaced by the Hungarian National Bank, which has carried on all the relevant functions of the Supervisory Authority after 1 October 2013). They remained members of OTIVA and part of the integration. The licences and the regulations on their operation were equivalent to the licences and operating regulations of other Hungarian banks.
+20.  Act no. CXXXV of 2013 on the Integration of Cooperative Credit Institutions and the Amendment of Certain Laws Regarding Economic Matters (“the Integration Act”) entered into force on 13 July 2013, the day after its proclamation.
+21.  The Act was later amended in several respects by Act no. CXCVI of 2013 on the Amendment of Certain Laws Regarding the Integration of Cooperative Credit Institutions (“the Amendments”) with effect from 30 November 2013.
+22.  The 2013 Integration Act and the Amendments abolished the integration of cooperatives which had been organised on a voluntary basis, with voluntary membership, and terminated OTIVA. In their place they introduced a forced integration under close State control; in particular:
+(a)  they introduced a mandatory integration headed by, inter alia, the newly created Integration Organisation of Cooperative Credit Institutions (Szövetkezeti Hitelintézetek Integrációs Szervezete, “the Integration Organisation”), a body under indirect State control, which had been set up as legal successor of OTIVA and other voluntary institutional protection funds, and the Savings Bank, which continued to be the central bank of the integration, now having more extensive powers;
+(b)  they set up the State-owned Hungarian Post (Magyar Posta, “Hungarian Post”) as a new shareholder of the Savings Bank (with a stake of 20%), the central bank of the previous integration, over which the savings cooperatives had previously had a controlling majority (the majority of the votes in the general assembly of the Savings Bank were now in the control of various State-owned institutions);
+(c)  they recapitalised the Integration Organisation;
+(d)  they restricted the economic independence and autonomy of the former savings cooperatives, targeting, amongst others, Kinizsi Bank and Mohácsi Bank;
+(e)  they provided for possible restrictions of the rights of the members and shareholders of the savings cooperatives and banks falling under the scope of the Integration Act.
+23.  The Integration Act applied to all cooperative credit institutions, this group having been defined to include savings cooperatives operating as cooperatives, and banks operating as companies limited by shares, which on 1 January 2013 had been members of OTIVA.
+24.  The scope of the Act, therefore, extended to Kinizsi Bank and Mohácsi Bank. It made the cooperative credit institutions ipso jure members of the Integration Organisation, imposing on them a number of conditions, if they chose to remain members of the integration as well as certain other conditions in case they wished to leave.
+25.  Under section 17 of the Integration Act (see paragraph 72 below), cooperative credit institutions which repeatedly failed to comply with the relevant requirements of the Integration Act could be excluded from the integration and their operating licences could be revoked. In such cases, their shares in the Savings Bank could be bought by the MFB, which had a call option in this respect (see section 20(10), paragraph 81 below).
+26.  The Integration Organisation could, as a sanction applied for a number of reasons, exclude one of the institutions from among its members, resulting in the withdrawal of its operating licence. Moreover, the Integration Act included several provisions directly stipulating that the Supervisory Authority had the power to withdraw the licence, which would result in the liquidation of the relevant institution (ibid. and section 15(13) in paragraph 69 below).
+27.  The banks were under an obligation to subscribe for one “C” preference share in the Savings bank (see section 3(3) in paragraph 66 below) and sell their “B” series shares (see section 20(3) and (10) in paragraph 81 below).
+28.  In addition, the applicants as the banks’ shareholders had a separate obligation henceforth to accept, during general meetings of shareholders in their respective banks, model articles of association with their content having been determined by the Savings Bank and any future amendments (see sections 17/D and 17/H(2) respectively in paragraphs 74 and 75 below).
+29.  More specifically, sections 17/H(2) (see paragraph 75 below) and 19(3) (see paragraph 80 below) prescribed that the general meeting of shareholders had to amend their own articles of association in line with the proposals by the Savings Bank within the following sixty days. A failure of the majority of the shareholders, as required by law for such decisions, to do so could result in the withdrawal of the operating licence by the Supervisory Authority (see sections 17(1) and 17/H(1) in paragraphs 72 and 75 below).
+30.  Under section 11(7) of the Integration Act, a cooperative credit institution wishing to leave the integration had to apply to the Supervisory Authority for an operating permit within eight days following the notification of its exit, and the permit had to be obtained within 120 days from that notification (see paragraph 67 below).
+31.  The applicants maintained that this time-frame was in practice difficult or impossible to comply with, as under the applicable rules the Supervisory Authority had ninety days within which to take a decision upon such application and that this term could be freely extended for a further ninety days. Given the objective complexity of the procedure, compliance with the 120-day term set out in section 11(7) of the Integration Act was, in essence, at the discretion of the Supervisory Authority.
+32.  Another condition for such a permit was that the existing or new owners had to provide, beyond the credit institution’s own capital already existing when the Integration Act entered into force, a sum of 2 billion Hungarian forints (HUF) (around 6 million euros (EUR)) from external sources for the formation of a new bank (see sections 11(7) and (8), and 20/A(12) and (13) of the Integration Act in paragraphs 67 and 82 below and capital requirements in paragraph 62 below). In addition, the exiting cooperative credit institutions had to keep a sum in cash, equivalent to the sum of their own capital as held on the date when the Integration Act became effective, on an account in the Savings Bank for a two-year period (ibid.).
+33.  One cooperative credit institution operating in the form of a bank, D. Bank Zrt., to which the Integration Act applied, decided to exit the system and this decision was ultimately accepted by the Supervisory Authority on 9 December 2013.
+34.  The Integration Act contained several provisions affecting ownership ratios among the shareholders of the Savings Bank, in effect modifying the status quo. It forced the existing shareholders into the exchange of shares, imposed certain restrictions on the exercise of rights by them and increased the Savings Bank’s capital by introducing the Hungarian Post as its new shareholder, thus diluting the shareholdings of the existing shareholders.
+35.  Owing to the changes in the ownership of the Savings Bank pursuant to the Integration Act and the Amendments (see, in particular, sections 13 and 20, cited in paragraphs 68 and 81 below), the shareholdings of Kinizsi Bank and Mohácsi Bank in the Savings Bank became proportionally reduced. While the two banks had previously possessed 0.15% and 2.27% respectively in the Savings Bank, they had respectively 0.12% and 1.83% stakes following the implementation of the Integration Act and the Amendments.
+36.  Apart from the capital increase mentioned above, the State has directly paid HUF 136 billion, approximately EUR 420 million, to the Integration Organisation through the Joint Capital Coverage Fund of Cooperative Credit Institutions (hereinafter referred to as “the Fund”).
+37.  The Integration Act and the Amendments contained various provisions affecting both strategic and day-to-day aspects of the management of savings cooperatives, including the two banks.
+38.  The Savings Bank now had the power to suspend the term of office of the bank’s managers or to appoint an executive officer for an interim period if the cooperative credit institutions did not comply with the instructions or their operations were not in compliance with the law or regulations, or if they were in a so-called “crisis situation” (see section 15(4), (7) and (12) in paragraph 69 below).
+39.  The Savings Bank had exclusive power to give prior approval to the acquisition of any stake by the banks in any other business entity or to the sale of such property if its value or purchase price exceeded 0.1% of the equity capital of the integration, calculated on a consolidated basis (see section 15(19) in paragraph 69 below). In certain cases the transactions and undertakings of the members were subject to prior approval by the Integration Organisation on a case-by-case basis.
+40.  The Integration Act also created a financial risk pool, encompassing the whole of the cooperative credit institutions sector. The Act made the participating institutions jointly and severally liable for any claims that might arise for one year and a half following the entry into force of the Integration Act. This rule did not apply to any of the claims which had already arisen prior to the establishment of the rule (see section 20/A in general and subsection (2) paragraphs (b), (e) and (f) specifically, paragraph 82 below).
+41.  The Integration Organisation’s assets were included in the consolidated equity capital of the Savings Bank and the cooperative credit institutions. The equity capital of the cooperative credit institutions was determined collectively, incorporating the assets of the Savings Bank and the Integration Organisation (ibid.).
+42.  The precondition for a valid resolution by the board of directors and supervisory board of the institutions was that the invitation to the relevant meeting of the board of directors or the supervisory board, together with all related material, was to be sent simultaneously to the Savings Bank (see section 15/A in paragraph 70 below).
+43.  The rules of procedure of the board of directors and the supervisory board of the institutions could not be in conflict with the Charter and relevant regulations established by the Savings Bank; and these rules of procedure had to be amended within fifteen days upon, and in accordance with, a request of the Savings Bank to that effect (ibid.).
+44.  Minutes of the general meetings and meetings of the board of directors of the institutions had to be submitted to the Savings Bank, and the minutes of the supervisory board meetings had to be sent to the Savings Bank in certain cases (ibid.).
+45.  The cooperative credit institutions were also required to inform, inter alia, the Integration Organisation and the Savings Bank of any legal proceedings in which they were involved (see section 15/C in paragraph 71 below).
+46.  The Integration Organisation had the power to issue mandatory regulations covering essential issues regarding the operation of the member institutions, such as accounting principles, internal audits, and eligibility of their executive officers. The Savings Bank was authorised to issue mandatory regulations covering essential issues regarding the operation of the institutions, such as risk management, credit authorisation, risk monitoring, receipt of deposits, cash flow management, etc. (see section 15(1) to (3) in paragraph 69 below).
+47.  The Savings Bank supervised the operation of the institutions and was authorised to issue instructions in order to ensure compliance with the law and the regulations issued by the Integration Organisation and by the Savings Bank (ibid.).
+48.  Bank accounts and securities accounts of the banks could only be held at the Savings Bank; and they had to keep their free monetary assets in financial instruments traded by the Savings Bank; other organisations holding bank accounts of the institutions were obliged to terminate such bank account agreements (see section 15(9) in paragraph 69 below).
+49.  The Integration Act and the Amendments contained several provisions modifying the functioning of the banks’ general meetings.
+50.  As a precondition for passing a valid resolution at general meetings, the Savings Bank now had to be informed of such meetings and their respective agendas simultaneously with the shareholders by means of an official invitation with copies of all its annexes (see section 15/A in paragraph 70 below).
+51.  Minutes of the general meetings had to be sent to the Savings Bank (ibid.).
+52.  The Integration Act contained provisions which directly affected the distribution of powers within the banks’ institutional structure. In particular, as regards the powers of the general meetings of shareholders over the management of the banks:
+(a)  the prior approval of the Savings Bank was now required for a decision by the applicants and other owners on the election, dismissal and remuneration of the members of the board of directors and supervisory board members of the institutions (see section 15(12) of the Integration Act, paragraph 69 below);
+(b)  the board of directors of the Savings Bank was now authorised to suspend or terminate the term of office of the executive officers of the institutions (see section 15(4), paragraph 69 below);
+(c)  it could now appoint an executive officer for an interim period if the institutions did not comply with the orders of the Savings Bank, their operations were not in compliance with the law or regulations, or if they were in a so-called crisis situation (see section 15(4), (7) and (12), paragraph 69 below).
+53.  As regards certain key decisions, the following measures were now subject to the prior approval of the Savings Bank, and could only be taken on the basis of such approval:
+(a)  approval of the Annual Report (see section 15(11) and 17/J(2) in paragraphs 69 and 76 below);
+(b)  issuing of bonds (see section 17/K(1) in paragraph 77 below);
+(c)  reduction or increase in capital (ibid.);
+(d)  reduction in subscribed capital or any payment made to the applicants under any legal title connected to their status as owners (e.g. dividend, reduction in capital) (see section 17/Q(3) and (4), cited in paragraph 78 below);
+(e)  acquisition of equity capital (see section 17/Q(6) in paragraph 78 below);
+(f)  conversion, mergers and demergers of the banks (see section 17/S(3) in paragraph 79 below).
+54.  The Integration Organisation was now able to suspend the voting rights of the shareholders of the cooperative credit institution for one year if they threatened the reliable and secure operation of the cooperative credit institutions (see section 17/C(5), cited in paragraph 73 below).
+55.  It was also authorised to define from time to time the level of the banks’ equity capital on a case-by-case (not consolidated) basis (see section 17/C(1), paragraph 73 below); if the capital did not reach the level so defined, the Integration Organisation could increase the capital of the banks, even if the shareholders and the other owners had not decided on such capital increase, or even contrary to the resolution of the owners (see section 17/C(2), cited in paragraph 73 below).
+56.  On unspecified dates, Kinizsi Bank and Mohácsi Bank adopted articles of association in line with the model provided by the Integration Organisation following the entry into force of the Integration Act.
+57.  It appears that some shareholders of the two banks who disagreed with the resolution adopting those articles of association challenged it in court. On 12 March 2015 the Pécs High Court found for the plaintiffs in the case brought by some of Mohácsi Bank’s shareholders. The court held that the model articles of association issued by the Savings Bank and the Integration Organisation could not in any way deviate from the mandatory provisions of the Companies Act. On 30 March 2015 a similar judgment was given by the Veszprém High Court in a case brought by shareholders of Kinizsi Bank. In both cases, the decision adopting the impugned articles of association at the general meetings of the bank was annulled. No information has been provided to the Court on the final outcome of those legal proceedings.
+58.  It appears that the requisite equity capital of Kinizsi Bank and Mohácsi Bank was at some point raised. However, both banks were able to comply with the new requirements.
+59.  The Savings Bank was to transfer its entire contractual portfolio to the base bank by the end of 2019 and the remaining 11 cooperatives, created as a result of the merger of the 113 savings cooperatives originally involved in the 2013 integration, would be merged into the base bank as well.
+RELEVANT LEGAL FRAMEWORK AND PRACTICE
+60.  Article XIII:
+“(1)  Everyone shall have the right to property and inheritance. Property shall entail social responsibility.
+(2)  Property may only be expropriated exceptionally, in the public interest and in the cases and ways provided for by an Act, subject to full, unconditional and immediate compensation.”
+61.  Section 3: 325(1) defines a cooperative as “a legal entity established on capital made up by the contributions of members, operating under the principle of open membership and variable capital, pursuing activities serving the purpose of satisfying the members’ economic and social needs, where obligations of the members extend to providing monetary contribution to the cooperative and personal participation as provided for in the articles of association. Members shall not be liable for the liabilities of the cooperative”.
+62.  Under section 9(1) a bank may be established with a minimum initial capital of two billion forints, while section 9(3) of the same law sets the amount of minimum initial capital required for a cooperative credit institution at 250 million forints.
+63.  Act no. IV of 2006 on Companies (“the 2006 Companies Act”, as in force on 12 July 2013, a day before the Integration Act’s entry into force) provided, with respect to a general meeting of a limited liability company, as follows:
+Section 231
+“(1)  The general meeting is the supreme body of a private company limited by shares, and consists of all shareholders.
+(2)  The following shall fall within the exclusive competence of the general meeting:
+(a)  decisions to approve and amend the articles of association, unless otherwise provided herein;
+(b)  decisions on changing the operating form of the private limited company;
+(c)  decisions on converting or terminating the company without succession;
+(d)  with the exception of the provisions in section 37 (concerning the delegation of certain competences to the supervisory board), the election and removal of members of the management board or the general director, members of the supervisory board and the auditor, and their remuneration;
+(e)  approval of the annual report prepared pursuant to the Accounting Act;
+(f)  decisions to pay interim dividends, unless otherwise provided herein;
+(g)  decisions to convert printed share certificates into dematerialised shares;
+(h)  alteration of the rights attached to the various series of shares, and the conversion of categories or classes of shares;
+(i)  decisions to issue convertible bonds or bonds with subscription rights, unless otherwise provided herein;
+(j)  decisions to increase the share capital, unless otherwise provided herein;
+(k)  decisions to reduce the share capital, unless otherwise provided herein;
+(l)  decisions to abolish preferential subscription rights, or to authorise the management board for the exclusion or restriction of preferential subscription rights;
+(m)  decisions on all matters falling within the remit of the general meeting by law or under the articles of association.”
+64.  Act X of 2006 on Cooperatives (as in force from 12 July 2013, one day before the Integration Act’s entry into force – “the 2006 Cooperatives Act”) provided, in respect of a general meeting of cooperatives, as follows:
+The General Meeting
+Section 20
+“(1) The general meeting is the supreme decision-making body of a cooperative and consists of all members.
+(2) The following shall fall within the powers of the general meeting:
+(a) amendment of the articles of association;
+(b) election and removal of the chairman (managing director) and members of the administrative body, the chairman and members of the supervisory body, and fixing of their remuneration;
+(c) election and removal of the auditor and fixing of his/her remuneration;
+(d) transfer of a certain part of the cooperative’s assets into the fellowship fund, and decisions on the general principles for the appropriation of the fellowship fund;
+(e) approval of the Annual Report prepared pursuant to the Accounting Act, decisions regarding the appropriation of taxed profits;
+(f) exclusion of members in the cases specified in the articles of association, or a review of resolutions for exclusion;
+(g) decisions to bring any action in damages against an executive officer of the cooperative;
+(h) decisions to join a federation of cooperatives, or to withdraw from one;
+(i) decisions concerning the merger or demerger of the cooperative, conversion into a business association or winding up without legal succession;
+(j) decisions to file a petition for bankruptcy, and on the approval of a composition agreement;
+(k) decisions to wind up the cooperative going into liquidation, and on the approval of a composition agreement reached during liquidation proceedings;
+(l) decisions to admit an investor member, including an agreement with the investor member concerning the date and manner of settlement for the eventuality of termination of the investor’s membership;
+(m) decisions to order supplementary payments;
+(n) changing the nominal value of shares;
+(o) where membership is terminated by either party, setting a date for the payment of any excess over the nominal value of shares, which shall be determined in the light of all other obligations of the cooperative no later than eight years after the date of termination of membership;
+(p) all other matters falling within the remit of the general meeting by law or under the articles of association.”
+65.  Section 1:
+“...
+(3) Cooperative credit institutions are members of the Integration Organisation and – having acquired shares in the Savings Bank– shareholders in the Savings Bank. The Savings Bank is a member of the Integration Organisation.
+(4)  [The Savings Bank] shall approve a new risk management policy uniformly applicable to members of the integration within 120 days following the entry into force of this Act. The Integration Organisation, [the Savings Bank] and the cooperative credit institution shall bear joint and several liability for obligations assumed after the thirtieth day following the issuance of the new risk management policy of [the Savings Bank].”
+66.  Section 3:
+“(1)  Membership of the Integration Organisation shall consist of the cooperative credit institutions, the Savings Bank and the MFB, and the persons and organisations admitted to the Integration Organisation.
+...
+(3)  In order to maintain the operational authorisation of the cooperative credit institution, the said institution shall maintain its membership in the Integration Organisation on a continuous basis and hold one series ‘C’ preference share in the Savings Bank, of two thousand forints at nominal value.”
+67.  Section 11:
+“(1)  The Board of the Integration Organisation shall adopt rules to be complied with by the members of the Integration Organisation, save for the MFB, on the following:
+(a)  accounting procedures;
+(b)  internal audit procedures;
+(c)  suitability criteria for executive officers and the verification of such suitability;
+(d)  provision of financial aid for eligible cooperative credit institutions;
+(e)  building-up of the assets of the Integration Organisation described in section 4(4).
+(2)  Upon the initiative of the Board of [the Savings Bank], the Board of the Integration Organisation shall decide on the admission of a cooperative credit institution into the Integration Organisation and on its exclusion from the Organisation.
+...
+(4)  For the purpose of institutional protection, in the event that the measure(s) taken under section 17/C(2) yield(s) no result, the Integration Organisation may acquire ownership in [the Savings Bank] and the cooperative credit institution by means of a capital increase. The Integration Organisation shall, within two years, dispose of the shares and bonds thus acquired in [the Savings Bank] or the cooperative credit institution.
+...
+(7)  Exiting from the Integration Organisation shall be regulated by the statute of the Organisation. Cooperative credit institutions exiting the Integration Organisation shall apply to the Supervisory Authority for an operating permit, within [eight] days following the notification of its exit issued by the Integration Organisation, as if the financial institution were being newly established. If the cooperative credit institution exiting or excluded from the Integration Organisation fails to apply to the Supervisory Authority for an operating permit ..., or the said permit is not granted within 120 days from the date of the Integration Organisation’s notification of its exit or exclusion, the Supervisory Authority shall revoke its operating permit and the provisions of section 17 shall be applied to the cooperative credit institution.
+(8)  In the event of exit or exclusion from the Integration Organisation, with respect to the exiting or excluded member, the joint and several liability of the members of the Integration Organisation shall terminate for the obligations assumed by the member as of the day of its exit or exclusion ...”
+68.  Section 13:
+“(1) The authorised share capital of the Savings Bank shall be a minimum of HUF 3,389,704,000, that is three billion, three hundred and eighty-nine million, seven hundred and four thousand forints.
+(2) Magyar Posta shall acquire ownership in the Savings Bank by subscribing for ordinary shares.
+(3) The cooperative credit institution shall hold series ‘C’ preference shares in the Savings Bank.
+(4) Shareholders of the Savings Bank may only hold one kind of preference share.”
+69.  Section 15:
+“(1) the Savings Bank shall be the central bank of the integration of cooperative credit institutions.
+(2) The Savings Bank shall adopt rules to be complied with by cooperative credit institutions on the following matters:
+(a) the detailed rules of risk management, including credit authorisation, risk monitoring, deposit allocation, cash management and investment policy, rules of evaluation and depreciation and rules on additional specific capital requirements in addition to laws, regulations and other binding rules;
+(b) the applicable business policy;
+(c) the joint marketing activity;
+(d) the establishment of an integrated IT system.
+(3) The Savings Bank shall exert control over the activity of the cooperative credit institutions, and it may give instructions to a cooperative credit institution in order to ensure compliance with the laws and regulations, or with the rules issued by or the instructions given by the Integration Organisation and the Savings Bank. The cooperative credit institution shall comply with such instruction. The instruction must be justified and the deadline for compliance must be set. As to whom the instruction is addressed, the cooperative credit institution has the right to have recourse to a court in order to determine if the instruction is in accordance with the Act, other laws and regulations and the rules issued by the Savings Bank and the Integration Organisation. Recourse to the courts will have no suspensive effect; irrespectively, the instruction shall be complied with by the deadline set therein.
+(4) In the event that the cooperative credit institution fails to comply with the instruction or operates in disregard of the laws, regulations or rules:
+(a) the Board of the Savings Bank may decide to suspend the term of office of the executive officer of the cooperative credit institution for a maximum of 180 days; such suspension may be extended for an additional 180 days on the condition that this decision is notified without delay to the Supervisory Authority, which will take steps to appoint a commissioner;
+(b) upon the initiative of the Board of the Savings Bank or upon its own initiative, the Board of the Integration Organisation shall decide on the suspension of membership of the cooperative credit institution in the Organisation and – if justified – on the exclusion of the cooperative credit institution from the Integration Organisation.
+(5) The Board of the Savings Bank shall decide to terminate the suspension of the term of office of the executive officer(s) of the cooperative credit institution, or the Board of the Integration Organisation shall decide to terminate the suspension of membership in the Integration Organisation, if the cooperative credit institution complies with the instruction and has restored operations in compliance with the laws, regulations and rules.
+(7) If, in the view of the Board of the Savings Bank, a cooperative credit institution or a group of cooperative credit institutions is in crisis:
+(a) the Board of the Savings Bank may decide to suspend the office of an executive officer of the cooperative credit institution for a maximum of 180 days; such suspension may be extended for an additional 180 days or – in particularly justified cases – it may decide to terminate such office and appoint one or more executive officers on a provisional basis;
+(b) upon the initiative of the Board of the Savings Bank or upon its own initiative, the Board of the Integration Organisation shall decide on the suspension of membership of a cooperative credit institution in the Organisation and – if justified – on the exclusion of a cooperative credit institution from the Integration Organisation.
+(9) Cooperative credit institutions shareholders in the Savings Bank shall maintain their bank account and securities account solely with the Savings Bank, and hold their non-term deposits in assets distributed by the Savings Bank.
+(11) For the adoption of the report described in the Accountancy Act by the cooperative credit institution, prior consent of the Savings Bank shall be required, the decision being taken on the basis of the balance sheet together with the auditor’s report, which shall be provided at least forty-five days prior to the scheduled general meeting.
+(12) For the appointment of executive officers of the cooperative credit institution, prior consent of the Board of the Savings Bank is required. The Board of the Integration Organisation and the Board of the Savings Bank may initiate the convening, by the cooperative credit institution shareholders in the Savings Bank and cooperative credit institution members of the Integration Organisation, of a general meeting with the agenda of appointing new executive officers. The cooperative credit institution concerned shall hold a general meeting with the above agenda in compliance with the shortest period of notice allowed by law. For the appointment of one or more executive officers by the Integration Organisation for the period of transition, no authorisation of the Supervisory Authority shall be required.
+(13) The Board of the Savings Bank may suspend shareholder rights of a cooperative credit institution which has no operating permit as provided in section 19(3) hereof, or the said rights shall be revoked in accordance with the law and in cases described in section 14(4) hereof. Reference shall be made in the stock register of the Savings Bank to the suspension of shareholder rights.
+(19) In its capacity as the central bank of the cooperative credit institutions and of the integration, in order to ensure prudent operation the Savings Bank shall be entitled to give – in its sole discretion – prior consent to the acquisition of ownership or to the sale of the ownership acquired by certain cooperative credit institutions and by the Integration Organisation, provided the value of the ownership to be acquired or to be sold exceeds 0.1% of the equity capital of the integration, calculated on a consolidated basis. Transactions pertaining to the same ownership carried out within twelve months shall be aggregated.
+70.  Section 15/A:
+“(1) The Savings Bank shall be notified in advance of the general meeting of the cooperative credit institution, simultaneously with the sending of the invitation to the shareholders. The invitation and its annexes shall be attached to the notification. In the event that these criteria are not fulfilled, the general meeting of the cooperative credit institution may not validly pass a resolution. The representative of the Savings Bank shall be entitled to attend the general meeting of the cooperative credit institution and to participate in the discussions.
+(2) The minutes of the general meeting of the cooperative credit institution shall be forwarded to the Savings Bank within fifteen days following the general meeting.
+(3) The board of the cooperative credit institution shall forward its rules of procedure to the Savings Bank within five days following its adoption or amendment. Should the rules of procedure conflict with the rules of the Savings Bank relevant for the rules of procedure or the articles of association of the cooperative credit institution, the Savings Bank may instigate their amendment and the board of the cooperative credit institution shall amend its rules of procedure accordingly within fifteen days following the receipt of such initiative of the Savings Bank.
+(4) The Savings Bank shall be notified in advance of the board meeting of the cooperative credit institution, simultaneously with the sending of the invitation to the members of the board, but at least five working days prior to the meeting. All motions concerning the agenda and related materials, if any, shall be attached to the invitation. In the event that these criteria are not fulfilled, the board of the cooperative credit institution may not validly pass a resolution. The representative of the Savings Bank shall be entitled to attend the board meeting of the cooperative credit institution and to participate in the discussions.
+(5) The minutes of the board meeting shall be forwarded to the Savings Bank within fifteen days following the board meeting.
+(6) The supervisory board of the cooperative credit institution shall forward its rules of procedure to the Savings Bank within five days following their adoption or amendment. Should the rules of procedure conflict with the rules of the Savings Bank relevant for the rules of procedure or the articles of association of the cooperative credit institution, the Savings Bank may instigate its amendment and the supervisory board of the cooperative credit institution shall amend its rules of procedure accordingly within fifteen days following the receipt of such initiative of the Savings Bank.
+(7) The Savings Bank shall be notified in advance of the supervisory board meeting of the cooperative credit institution, simultaneously with the sending of the invitation to the members of the supervisory board, but at least five working days prior to the meeting. All motions concerning the agenda and related materials, if any, shall be attached to the invitation. In the event that these criteria are not fulfilled, the supervisory board of the cooperative credit institution may not validly pass a resolution. The representative of the Savings Bank shall be entitled to attend the supervisory board meeting of the cooperative credit institution and to participate in the discussions.
+...”
+71.  Section 15/C:
+“The chief executive officer of the cooperative credit institution and the chair of the board shall give notice, to the board and the auditor of the cooperative credit institution, the Integration Organisation, the Savings Bank and the Joint Capital Coverage Fund of Cooperative Credit Institutions, of any litigious or non-litigious legal procedure threatened or initiated against the cooperative credit institution within a maximum of three days following the receipt of the relevant notification by the cooperative credit institution. With respect to the handling of such procedures, touching upon the issue of joint and several liability, the Savings Bank may establish rules on the code of conduct or on the obligation to provide information.”
+72.  Section 17:
+“(1) ... the Supervisory Authority shall revoke the operating permit of any cooperative credit institution which fails to comply, or complies without meeting the deadline, with its obligations under section 17/K(1), section 19(3) and section 19(6). The Supervisory Authority may revoke the operating permit of a cooperative credit institution which repeatedly fails to comply with its obligations as defined in section 15/A and section 17/H(1).”
+73.  Section 17/C:
+“(1) Cooperative credit institutions may be established with a minimum initial share capital of two hundred and fifty million forints. Regardless of its form of operation, the equity capital of the cooperative credit institution may not be lower than the level established from time to time by the Integration Organisation on an individual (not consolidated) basis.
+(2) Should the equity capital of the cooperative credit institution fall below the level specified in subsection (1) or in the case described in section 19(13), the Integration Organisation is entitled to have recourse to the following exceptional means – without prejudice to the powers and duties of the Supervisory Authority and provided the Supervisory Authority failed to take such measure – by giving prior notice to the Supervisory Authority:
+(a) It may arrange for the cooperative credit institution
+(aa) to sell assets not serving the purposes of banking operations;
+(ab) to improve its capital structure (including the sale of assets) within the deadline set and in compliance with the requirements;
+(ac) with regard to the financial services rendered by the financial institution and the risks assumed by such financial institution, it may determine an individual capital requirement higher than the level specified in subsection (1), reaching the extent provided for in section 76(1) of the Act on Credit Institutions and Financial Enterprises.
+(b) It may limit or prohibit the cooperative credit institution:
+(ba) in or from performing transactions in the relation of the owner and the cooperative credit institution;
+(bb) in or from paying deposits and other repayable funds;
+(bc) in or from assuming obligations.
+(c) It may determine the maximum rate of interest to be stipulated by the cooperative credit institution.
+(d) It may obligate the board of the cooperative credit institution to convene a general meeting and invite the board to discuss specific items on the agenda or draw the attention of the board and the general meeting to the need for certain decisions to be taken.
+(e) It may call upon the following owner(s) of the cooperative credit institution to take the necessary measures;
+(ea) the owner(s) of the cooperative credit institution holding a minimum direct share of five per cent as registered in the stock registry or – for cooperative credit institutions operating in cooperative form – in the registry of members, and
+(eb) any owner(s) having qualifying majority influence.
+The above provisions shall not affect any other rights and powers of the Integration Organisation arising hereunder.
+...
+(5) The Integration Organisation may suspend the voting rights of the owners of the cooperative credit institution for a definite period of time, but for no more than one year, simultaneously taking additional measures listed in subsection (2) provided the activity of the owner or its influence over the cooperative credit institution jeopardises the reliable and secure operation of the cooperative credit institution on the basis of the available facts; in such a case the votes concerned by the limitation shall be disregarded for the purposes of forming the quorum.”
+74.  Section 17/D:
+“(1) A cooperative credit institution may be established and operated in the form of a cooperative, in accordance with the standard articles of association determined by the Integration Organisation or the Savings Bank, until 30 June and from 1 July 2014, respectively.
+(2) With a view to ensuring efficient, prudent and secure operation and to realise other purposes defined in the articles of association, the Integration Organisation and the Savings Bank shall have the power to establish and amend the articles of association.”
+75.  Section 17/H:
+“(1) Cooperative credit institutions may only operate as members of the Integration Organisation in the form of a cooperative or public company limited by shares.
+(2) The articles of association of the cooperative credit institution may be amended in accordance with the standard articles of association determined by the Integration Organisation – or as of 1 July 2014 by the Savings Bank –, or if the Integration Organisation – or as of 1 July 2014 by the Savings Bank – issues new standard articles of association, the cooperative credit institution shall amend its articles of association accordingly within a maximum of sixty days.”
+76.  Section 17/J:
+“(2) For the adoption of the report described in the Accountancy Act by the cooperative credit institution, the prior consent of the Savings Bank shall be required.”
+77.  Section 17/K:
+“(1) For the issuance of bonds or any decrease or increase in the capital of the cooperative credit institution, the prior, express and written consent of the Savings Bank shall be required.”
+78.  Section 17/Q:
+“(3) The general meeting of the cooperative credit institution shall decide upon a reduction in authorised share capital or any payment or repayment made to a member (shareholder) under any title in connection with its membership (shareholder) status and the prior consent of the Board of the Savings Bank shall be required for such purpose.
+(4) In relation to the above subsection (3), the Board of the Savings Bank may not refuse to grant its prior consent as long as the payment of dividends does not jeopardise the solvency of the cooperative credit institution or the performance of its business policy or the level of equity capital as established on an individual basis. In connection with the above subsection (3), the Board of the Savings Bank shall refuse its prior consent where the investigation under section 19(5) of the cooperative credit institution is not yet terminated or it has terminated and found – or the investigation under section 15(16) has so found – that capital replacement is needed but has not yet taken place. ...
+(6) Where the subscribed capital per share is to be used to cover losses, the general meeting shall proportionally reduce the amount of units (nominal value) per share”.
+79.  Section 17/S:
+“(3) The Integration Organisation shall set out in its directive on transformation, merger and division – which also sets out the objectives and principles of integration – the circumstances in which the transformation, merger or division may be considered to endanger the interests of the members of the institutions concerned or the integration of cooperative credit institutions.”
+80.  Section 19:
+“(3) By derogation from section 3(2), cooperative credit institutions holding an operating permit upon the entry into force of this Act shall perform the following and, by the deadline set below, notify the Supervisory Authority and the Integration Organisation thereof:
+(a) within forty-five days following the entry into force of this Act, to adopt the new memorandum or articles of association with the wording as determined by the Board of the Integration Organisation;
+(b) if the Companies Registry refuses on any grounds to register the new memorandum or articles of association as provided for in paragraph (a) or any of their future amendments with the wording determined by the Board of the Integration Organisation (or as of 1 July 2014 the Savings Bank), the cooperative credit institution concerned must adopt the new memorandum or articles of association or the amendment thereof with wording established by the Board of the Integration Organisation (or as of 1 July 2014 the Savings Bank) and submit the full documentation to the Companies Registry within thirty days following the forwarding of new wording to the cooperative credit institution concerned.
+The Supervisory Authority has eight working days at its disposal for administration of the above matters.”
+81.  Section 20:
+“(3) The cooperative credit institutions that are shareholders in the Savings Bank at the time the Act enters into force shall be obliged to take over one series ‘C’ preference share of HUF 2000 at nominal value in accordance with its preliminary commitment under section 19(3) paragraph (a). Series ‘C’ preference shares shall be transferred free of charge. Simultaneously with the issuance of the preliminary commitment statement, the Savings Bank shareholder shall be obliged to place the series ‘B’ preference shares in its possession in custody on the securities account no. 0074 with Keler Cls. or on another securities account notified in writing by the Savings Bank, or to make a proper declaration in writing to the Board of the Integration Organisation that it holds no series ‘B’ preference shares. The manner and time-frame of the take-over of series ‘C’ preference shares shall be decided by the general meeting summoned in accordance with section 20(7). (Repealed)
+...
+(10) The MFB shall have a call option in respect of series ‘B’ preference shares held by shareholders as provided in section 19(6) and in respect of Savings Bank shares held by cooperative credit institutions of which the operating permit has been revoked. The call option shall persist for one year and it may be called as of the day following that on which the operating permit is revoked. The call option may be exercised at the value determined by section 20(1). The call option shall be considered as exercised if the MFB’s unilateral option statement, including the purchase price, has been posted to the shareholder concerned. The purchase price shall be paid within 90 days following the call option statement. No consent of the authorised body of the Savings Bank shall be required for the acquisition of ownership by the MFB.”
+82.  Section 20/A:
+“(2) Determination of the starting date of the joint and several liability described in section 1(4) shall be governed by the following:
+...
+(b) for cooperative credit institutions, the date of issuance of the risk management policy of the given cooperative credit institution shall be established by the Board of the Savings Bank in an independent board resolution, subject to the progress and result of the investigation under section 19(5); in this resolution the date from which joint and several liability applies to the claims of the cooperative credit institution shall also be established;
+...
+(e) as of the date specified in the resolution, joint and several liability applies without the specific statement or other legal act of the cooperative credit institution concerned; the Savings Bank shall publish the resolution on its website;
+(f) for cooperative credit institutions in relation to which the Board of the Savings Bank failed to adopt the decision under paragraph (b) by 10 December 2014, the Board of the Savings Bank will initiate the decision of the Board of the Integration Organisation on the exclusion from the Integration Organisation.
+...
+(12) The cooperative credit institution which has declared its intention to exit the Integration Organisation is obliged to fully perform its obligations hereunder as long as its membership in the Integration Organisation persists. As regards section 11(7) the declared intention to exit will become effective, and the cooperative credit institution ceases to be the member of the Integration Organisation on the subsequent working day, if and when:
+(a) the operating permit is granted by the Supervisory Authority, based on the application for authorisation;
+(b) the cooperative credit institution has settled all claims with the Integration Organisation and all of its members and has no outstanding debt towards them, excluding the case where a member of the Integration Organisation placed a deposit with the institution and excluding pending liabilities within the scope of joint and several liability as defined in subsection (2) and section 1(4);
+(c) the conditions for the exit as determined in the statute of the Integration Organisation effective at the date of the exit have been fulfilled;
+(d) the condition described in subsection (13) has been fulfilled;
+(e) the cooperative credit institution and the Integration Organisation have signed a joint statement on the scheduled exit.
+(13) With regard to section 11(8), the member excluded or having exited is obliged to hold the value of its equity capital, as upon the establishment of membership in the Integration Organisation, on a separate account maintained with the Savings Bank for 730 days following the declaration of the intention to exit and to duly notify the Integration Organisation thereof. The amount paid to the Joint Capital Coverage Fund by the cooperative credit institution until the declaration of the intention to exit may be deducted from the amount to be placed on the separate account held with the Savings Bank under this subsection. The amount to be placed on the separate account maintained with the Savings Bank may be released on the conditions and at the dates to be determined in the articles of association described in subsection (7), for the persons specified therein.”
+83.  The Constitutional Court reviewed the Integration Act and the Amendments in its decision no. 20/2014 (VII.3) of 30 June 2014.
+84.  A constitutional challenge against the Integration Act was first lodged by OTSZ. That initial complaint was followed by complaints from 135 individuals (members of savings cooperatives), three cooperative credit institutions and a joint complaint submitted by some banks. They complained, among other things, about the restrictions imposed by the Integration Act on the exercise of shareholders’ ownership rights and the reduction in value of their assets, which they claimed amounted to expropriation. It is unclear whether any of the applicants in the present case participated in the proceedings.
+85.  As regards the process of its adoption, the Constitutional Court noted the following:
+“The legislation under examination was aimed at the transformation of a significant subsystem of the financial sector and was based on a complex regulatory concept. Owing to this and the [particular] sensitivity of the sector, the legislator had reasonable grounds for keeping the process of arrangement and preparation to a strict minimum. It was in the interest of both the credit institutions and their clients/depositors to maintain a [precarious] situation for as short a time as possible [so that] an atmosphere of panic or negative chain reaction did not occur.”
+86.  As regards the aim of the Integration Act, the existence of limitations on the property rights of the shareholders and the justification for the limitations imposed on the cooperative credit institutions’ operations, the Constitutional Court held, among other things, as follows:
+“... [S]pecific credit institutions operate as a subsystem of the highly organised financial system and cannot be considered autonomous entities even in terms of civil law ... The financial system constitutes one subsystem of the national economy, which is one of the most important subsystems of the social system (besides the political system for instance). Due to the ‘domino effect’, the collapse of a single financial institution may have a spill-over and result in deteriorating country risk, downgrading and an increase in public debt; this would have a negative effect on the investment sector, employment and social services etc. ...
+Secure operation of credit institutions operating in cooperative form plays an important role in ensuring the stability of the financial sector as a whole. The sector in question gains its importance from its extensive branch network, the fact that in the majority of municipalities financial services are available solely through cooperative credit institutions; furthermore, cooperatives play a defining role in financing sole enterprises and businesses active in the agricultural sector. Maintaining this financial infrastructure and ensuring its operability constitutes a public interest that may justify interference with property (and financial autonomy) as part of economic and financial policy, social responsibility, the role of the national economy and social rigidity of property.
+Since 2008-2009, statutory conditions of establishing and operating financial organisations, their supervision and control, consolidated management and coordination have become stricter all over the world. The integration itself and the control rights conferred on its bodies seek to coordinate the operation of cooperative credit institutions by means of rules and regulations on a general level and by means of specific measures and instructions on an individual level. These are necessary to coordinate the operation of the credit institutions concerned and to ensure integrated operation. For operational activity, the issues listed in section 15(2) of the Act (such as risk management, business policy, marketing and IT systems) are undoubtedly important, therefore the legislator has authorised [the Savings Bank] to establish binding regulations on such issues. In exercising its right of control, [the Savings Bank] monitors compliance with the regulations issued and, in that framework, it is entitled to give specific instructions. Taking into consideration the fact that integrated operation is contingent upon compliance with the regulations and instructions mentioned, the legislator has also authorised the implementation of certain sanctions. Since cooperatives are managed by executive officers on an operative level, their terms of office may be suspended or terminated. Sanctions against cooperatives not complying with the binding rules (suspension of the Integration Organisation’s membership, exclusion) are one means of ensuring integrated operation. It is also justified to exercise [the Savings Bank]’s right of control and implement sanctions if a cooperative is in crisis, since – because of a financial risk pool – the operation of a single member may jeopardise the security of the whole system. ... The requirement pertaining to the suspension of the rights of [the Savings Bank’s] shareholders is a provision promoting the establishment and maintenance of the integration and compliance with integration requirements. ...
+... In addition to the above, the Act introduces a further limitation on the financial operations of cooperative credit institutions ... The objective of these rules is to ensure predictable, stable and prudent operation, minimise business risks and improve secure lending activity ...
+The organisational structure and the integration tool box significantly narrow the margin for manoeuvre of cooperative credit institutions in taking business decisions, thereby putting a limit on the independence of cooperatives. The Constitutional Court repeatedly emphasises that in relation to the limitation of the right to property, it is allowed relatively little leeway to consider whether the lawmaker’s reference to public interest is well-founded. Particularly so with respect to reform laws, such as the one at hand, where one sector of the economy is being restructured, guided by economy policy objectives ...
+Due diligence of cooperative credit institutions – and the exploration of hidden risks, thus the real situation – may be regarded as being in the public interest. Similarly, it is in the public interest to reduce operational risk in the sector, also secured by integrated risk management within the integration and financial contribution of the State. Lastly, in terms of the development of the national economy, it is in the public interest to intensify the lending of cooperative credit institutions, ensured by the financial contribution of the State and SZHISZ assets being regarded as equity capital. ...
+... In examining the proportionality of the limitation, the Constitutional Court has considered it an important aspect that though the rights of control of the bodies of the integration have a decisive impact on the operational independence of cooperative credit institutions, this is outweighed by the benefits of integrated operation (mainly the reduction of business risks, improved profitability) and the fact that – in order to ensure the stability and security of the sector – the State contributes significant amounts to institutional protection through the MFB, thereby improving the stability of the sector. In legal terms, not only does the State take something from the system (from the independence of credit institutions), but also gives something (financial coverage, security). ...
+Given the fact that on public interest grounds – and with value guarantee – even the full deprivation of property may be constitutional, the integration of cooperative credit institutions and coordination of their activity may be regarded, in comparison, as minor limitations on their independence. ...
+.... The State – in this case as an economic and financial public administration authority – has set the objective of strengthening the cooperative credit institution sector within the system of financial institutions, ensuring its stability and operability and promoting efficient and competitive operation. In the view of the Constitutional Court, limitations on the right to property of ordinary shareholders are duly justified and compensated for by this fact.
+... In the case at issue the Constitutional Court has found that invoking the public interest is not just a formality; since the Savings Bank is one of the controlling bodies of the integration, in order to ensure coordinated operation it may be acceptable for the State to acquire, at least temporarily, a majority share in the bank.
+... The acquisition of property by the State, effected indirectly via Magyar Posta, and the restriction on ordinary shareholders resulting therefrom has so far involved not only the mere acquisition of management rights, but also a real and complex financial reinforcement of the sector. Capital was provided by the State to the sector in two ways: on the one hand, through a capital increase effected in [the Savings Bank], the State provided extra assets to the central bank of integration, and, on the other hand, a significant amount ( ... about HUF 136.5 billion) was provided to [the Integration Organisation]. The latter amount should be spent on the transformation, professionalisation and reorganisation of the sector.”
+87.  Lastly, the following parts of the Constitutional Court’s decision are relevant to the issue of the remedies available as of 30 November 2013:
+“... As a means of exercising control rights, the Act authorises the bodies of the integration to establish various regulations and decisions (... (i) rules, (ii) instructions and (iii) other decisions); thereby giving them powers to exercise a fundamental influence on the operation of the cooperative credit institutions concerned. Misuse or abuse of such rights may result in a grave violation of the rights of those involved. To counterbalance this fact, the Act – as of 30 November 2013 – ensures that cooperative credit institutions have a right to bring proceedings in the courts:
+...
+(a)  Section 15(3) of the Act ensures such a right ... against the instructions of [the Savings Bank]. ...
+(b)  In accordance with section 15(20) of the Act, the cooperative credit institution may contest the decision or instruction of [the Savings Bank] under the rules applying to the judicial review of company resolutions ...
+(c)  Section 15(21) of the Act provides a judicial avenue to contest the decisions of [the Integration Organisation] for the cooperative credit institution [concerned] by the decision. The court may examine whether that decision was in conformity with the law and other regulations and the policies issued by the integration bodies.
+...
+On the basis of the foregoing, it may be established that the right to seek a legal remedy against the instructions of [the Savings Bank] is ensured by section 15(3) and (20) of this Act, against its binding rules by section 45 of the Business Associations Act, or section 3:35 of the Civil Code replacing [it] [confirmed by section 15(20) of this Act].
+...
+As regards [the Integration Organisation’s] rules, the Act does not provide for a similar requirement, regulating judicial review. Nevertheless, rules established by [the Integration Organisation] are enforced through specific instructions and other individual decisions. In the event that the rules are directly applicable, non-compliance entails sanctions for the cooperative credit institution, ... [the Savings Bank] takes measures to enforce the rules by means of a specific measure (gives instructions) under section 15(3) or implements sanctions in accordance with the provisions of the Act. Such individual decisions may be contested before the courts and, in the course of the judicial review, the rules serving as the basis of the individual decisions [must] be examined.”
+88.  As regards joint and several liability, the Constitutional Court revoked certain provisions of the Integration Act and held that the Fund should pay any amount payable on the grounds of joint and several liability in the place of the debtor within a set time-limit. After payment has been made by the Fund, any amount payable on the grounds of joint and several liability shall be paid by the other cooperative credit institutions, the Integration Organisation or the Savings Bank. It also noted that “liability for debts [was] incurred solely for the debts of cooperative credit institutions, so members of the integration [would] assume no liability for the debts of [the Savings Bank] and [the Integration Organisation].”
+89.  The Constitutional Court also held that the provisions concerning the model articles of association should be interpreted so that such instruments would only contain compulsory elements that were essential for the purposes of the Integration Act or served the implementation thereof, or were necessary to meet EU requirements on the integrated operation of credit institutions.
+90.  After the financial crisis of 2008 the EU adopted a number of measures to harmonise and improve the tools for dealing with banking crises in its member States. These measures included (a) comprehensive and effective arrangements, including the creation of considerable regulatory powers, to deal with failing banks at national level and cooperation arrangements to tackle cross-border banking failures (Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms, known as the “BRRD”), (b) major changes in the rules on the amount of capital and liquidity that banks may hold, the so-called prudential requirements (Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms and Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms, known as the “CRD IV/CRR”) and (c) as regards EU member States participating in the Banking Union, the creation of the Single Resolution Mechanism providing, among other things, for the creation of a fully independent EU agency acting as the central resolution authority within the Banking Union in charge of the single resolution fund as well as the creation of a public authority responsible for such resolution in each member State (Regulation (EU) no. 806/2014 of 15 July 2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund, known as the “SRMR”).
+91.  Whereas the BRRD had to be transposed into national law by each EU member State by the end of 2014 and the SRMR came into force on 19 August 2014, the relevant institutions were required to apply the CRD IV/CRR from 1 January 2014.
+92.  The CRD IV/CRR represents the implementation of the Third Basel Accord (known as “Basel III”), a global voluntary regulatory framework on bank capital adequacy, stress testing and market liquidity risk.
+93.  The following information was gleaned from the Court’s research into the legislation of the member States of the Council of Europe, and in particular a study covering thirty-four States.
+94.  In the aftermath of the financial crisis of 2008 all EU member States and many non-EU member States of the Council of Europe introduced legislation reforming the regulation of the financial market, providing for the restructuring and resolution of financial institutions, to a great extent reflecting the above-mentioned developments at EU level (see paragraphs 90-92 above). Such domestic legislation has been enacted or amended in this connection in Albania, Andorra, Austria, Azerbaijan, Belgium, Bosnia and Herzegovina, Croatia, Estonia, France, Germany, Greece, Ireland, Italy, Latvia, Liechtenstein, Luxembourg, the Republic of Moldova, Norway, Poland, Romania, San Marino, Serbia, Slovenia, Spain, Sweden and the United Kingdom.
+95.  The reaction of these States has ranged from compliance with the above-mentioned EU requirements in the case of EU member States (and other non-EU States which mirrored them) to various further measures interfering with business autonomy and shareholder rights. No specific legislation was enacted in this period in Armenia, Georgia, Montenegro, the Russian Federation or Turkey.
+THE LAW
+96.  On 29 April 2019 four applicants, Mr Béla Juhos (no. 85), Ms Béláné Juhos (no. 86), Ms Gyuláné Péter (no. 161) and Mr Károly Péter Szirom (no. 203), shareholders of Mohácsi Bank, informed the Court that they no longer intended to pursue their cases and asked for them to be struck out of the list.
+97.  Article 37 § 1 of the Convention provides:
+“The Court may at any stage of the proceedings decide to strike an application out of its list of cases where the circumstances lead to the conclusion that
+(a)  the applicant does not intend to pursue his application; or
+(b)  the matter has been resolved; or
+(c)  for any other reason established by the Court, it is no longer justified to continue the examination of the application.
+However, the Court shall continue the examination of the application if respect for human rights as defined in the Convention and the Protocols thereto so requires.”
+98.  The Court finds that the four applicants’ intention to withdraw from the proceedings instituted before the Court has been unequivocally established (see Association SOS Attentats and de Boëry v. France (dec.) [GC], no. 76642/01, § 30, ECHR 2006‑XIV; and Berlusconi v. Italy (dec.) [GC], no. 58428/13, § 65, 27 November 2018). In accordance with Article 37 § 1 (a) of the Convention, the Court concludes that the applicants do not intend to pursue their grievances.
+99.  In the absence of any special circumstances regarding respect for the rights guaranteed by the Convention or its Protocols, the Court considers that, in accordance with Article 37 § 1 (a) of the Convention, it would no longer be justified for the Court to continue the examination of the application in so far as it has been introduced by the above-mentioned individuals.
+100.  Accordingly, in so far as concerns these applicants, the application should be struck out of the list.
+101.  The Court considers it important to clarify from the outset the scope of the case. It observes that the crux of the case is the applicants’ allegation that as a result of the Integration Act and the Amendments they, as a group of controlling shareholders, suffered a permanent and drastic loss in the amount of control and supervision over Kinizsi Bank or Mohácsi Bank in favour of the Integration Organisation and the Savings Bank.
+102.  There is no suggestion in the applicants’ submissions that the impugned interference was in any way directly economically detrimental to the respective banks’ businesses. The applicants do not complain about any specific instances of the Integration Organisation or the Savings Bank exercising their powers under the Integration Act and the Amendments in respect of either of the two banks or any of the banks’ shareholders.
+103.  The Court further notes that in their submissions before the Grand Chamber the applicants also argued under Article 14 of the Convention that adding their banks to the forced integration had been discriminatory.
+104.  The Court reiterates that the content and scope of the “case” referred to the Grand Chamber are delimited by the Chamber’s decision on admissibility (see K. and T. v. Finland [GC], no. 25702/94, §§ 140-41, ECHR 2001‑VII; Ilnseher v. Germany [GC], nos. 10211/12 and 27505/14, § 100, 4 December 2018; and Ilias and Ahmed v. Hungary [GC], no. 47287/15, § 173, 21 November 2019). The applicants’ complaints under Article 14 were declared inadmissible as manifestly ill-founded by the President of the Second Section acting as a single judge on 12 September 2014. The only complaints that were declared admissible by the Chamber in its decision of 4 April 2017 are those made under Article 1 of Protocol No. 1.
+105.  It follows that the issue of the compliance of the impugned legislation with Article 14 of the Convention does not fall within the Grand Chamber’s jurisdiction (see, for example, Herrmann v. Germany [GC], no. 9300/07, § 39, 26 June 2012), which is thus confined to examining the alleged grievances under Article 1 of Protocol No. 1.
+106.  The applicants complained about the impact of the Integration Act and the Amendments on their right to influence the conduct and policy of the banks in which they held shares. In particular, in their view, the legislation excessively interfered with their rights to establish and amend articles of association, adopt annual reports, appoint board members and determine share capital or payment of dividends. Under the new legislation these issues had become subject to the approval of two central bodies which had initially been controlled by the State.
+The applicants relied on Article 1 of Protocol No. 1 to the Convention, which reads as follows:
+“Every natural or legal person is entitled to the peaceful enjoyment of his possessions. No one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.
+The preceding provisions shall not, however, in any way impair the right of a State to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to secure the payment of taxes or other contributions or penalties.”
+107.  The Chamber found, in view of the scope of their complaints, that the impugned legislation had not interfered with the applicants’ rights, that they therefore could not claim to be victims of the alleged violations and that therefore there had been no violation of Article 1 of Protocol No. 1.
+108.  In their pleadings before the Court, the parties made extensive submissions as to whether the impugned legislative measures complied with Article 1 of Protocol No. 1, notably whether those measures entailed deprivation of possessions (as argued by the applicants) or the control of use of property (as argued by the Government), whether they had been taken in the “general interest” and whether there was a reasonable relationship of proportionality between the means employed and the aims sought to be achieved by the respondent State. In view of its findings below (see paragraph 166 below) that the applicants cannot not claim to be victims for the purposes of Article 34 of the Convention, the Court sees no need to reproduce those arguments.
+109.  The applicants claimed that the Integration Act directly infringed their property rights as shareholders and that alternatively the circumstances of the case warranted the piercing of the corporate veil. Therefore, as shareholders of the two banks they should have standing before the Court.
+110.  The applicants argued that the right to determine and influence the company’s decision-making and strategic direction was an essential element of governance rights, which were realised through the right to vote at general meetings “to elect directors, to approve the sale of certain company assets, and to amend the articles of association or memorandum”. The shareholders would “run the company and control its assets” by exercising their right to vote in the general meeting of the company. Accordingly, there was a direct correlation between the remit and operation of the general meeting and the shareholders’ property rights. If the general meeting became in many respects impotent, the shareholders would be deprived of their governance rights. Thus, “by constraining the scope of the decisions that could be taken at the general meeting”, the provisions of the Integration Act not only affected the applicants’ interests but directly restricted their ownership rights.
+111.  The rules set out in the Integration Act provided for total control over the banks by the Integration Institutions which, coupled with the constant threat of exclusion from the integration, had led to the situation in which the banks, in essence, were forced to operate as branches of the Savings Bank controlled by the Integration Organisation and ultimately the State. The legislation had eliminated the independence of the banks and their shareholders had lost their influence over the banks’ operation.
+112.  The applicants also alleged that their shares in the banks had lost value immediately after the entry into force of the Integration Act as the shares “became practically impossible to transfer because of the significant limitations on the shareholders’ rights”. The above factors, taken cumulatively, in the applicants’ view, proved that they were directly affected by the legislation. Alternatively, the applicants also argued that the Court should pierce the corporate veil because they “own[ed] almost 100% of the shares” in the banks and because of the high degree of State involvement in the integration.
+113.  The Government considered that the present case concerned the rights of the banks as distinct legal persons and the applicants could not therefore claim to be victims of the impugned legislation.
+114.  The Government underlined that it was not the applicants’ right to influence the operation of the banks that was restricted by the impugned legislation, but rather the banks’ room to manoeuvre on the financial market and the system of the supervision of their operation. Only the banks’ legal relationships with third persons, especially vis-à-vis the Integration Organisation and other members of that organisation, were directly affected by the provisions of the law, whereas any provisions affecting the applicants’ rights vis-à-vis the banks required further action before they could have had any effect on the applicants.
+115.  The Government argued that none of the applicants individually had a dominant position in either bank to have an effective possibility of achieving a desired outcome in the general meetings without securing the votes of other shareholders whose interests were widely divergent. In addition, the application of the impugned legal provisions affecting the competence of the banks’ governing bodies was in most cases dependent on various criteria and was not automatic. Accordingly, any legal effect of the legislation as such was only potential and lacking in concreteness, especially given that the exercise of powers by the Integration Organisation or the Savings Bank could be challenged in court.
+116.  The Government considered that the relevant legislation did not diminish the value of the applicants’ shares and did not limit the possibility of disposing of them. They also took the view that, applying the Court’s criteria from the cases of Olczak v. Poland ((dec.), no. 30417/96, ECHR 2002‑X (extracts)), Credit and Industrial Bank v. the Czech Republic (no. 29010/95, 21 October 2003), Feldman and Slovyanskyy Bank v. Ukraine (no. 42758/05, 21 December 2017) and Süzer and Eksen Holding A.Ş. v. Turkey (no. 6334/05, 23 October 2012) there were no strong reasons for the Court to lift the corporate veil. The legal certainty and balance created by the relevant legal construction would be seriously undermined if shareholders continued to enjoy the benefits of a corporate veil such as the principle of limited liability, but refused to accept the corresponding limitations on their rights whenever they disagreed with the decisions of the executive organs of the company.
+117.  Since the legal provisions complained of had no direct effect in themselves on the applicants’ right to influence the operation of the banks and there were no exceptional circumstances justifying the lifting of the corporate veil in the present case, the Government concluded that the applicants could not claim to be victims within the meaning of Article 34 of the Convention merely on account of the entry into force of the impugned legislation.
+118.  The Government also referred to the complete buyout of the shareholders of Mohácsi Bank by the Savings Bank in 2018 and the purchase of a contract portfolio of Kinizsi Bank by B3 TAKAREK Szövetkezet in 2019. They also informed the Court that Kinizsi Bank had undergone a voluntary transformation into an investment company Kinizsi Invest Zrt., which had eventually left the Integration Organisation. The Government argued that, on the assumption that the applicants’ victim status was recognised by the Court, they had to be seen as having lost it since neither they personally nor the companies were at present directly affected by any of the impugned legislative measures.
+119.  The Court considers that the issue of whether the applicants were victims of the alleged violations within the meaning of Article 34 of the Convention requires examination, since the impugned legislation concerned principally Kinizsi Bank and Mohácsi Bank, which themselves chose not to participate in the Strasbourg proceedings, and the case has been brought by shareholders of the two banks.
+120.  The Court reiterates that Article 34 of the Convention does not allow complaints in abstracto alleging a violation of the Convention. The Convention does not provide for the institution of an actio popularis, meaning that applicants may not complain about a provision of domestic law, a domestic practice or public acts simply because they appear to contravene the Convention (see, among other authorities, Centre for Legal Resources on behalf of Valentin Câmpeanu v. Romania [GC], no. 47848/08, § 101, ECHR 2014, and Burden v. the United Kingdom [GC], no. 13378/05, § 33, ECHR 2008).
+121.  Accordingly, in order to be able to lodge an application in accordance with Article 34, an individual must be able to show that he was “directly affected” by the measure complained of. This is indispensable for putting the protection mechanism of the Convention into motion, although this criterion is not to be applied in a rigid, mechanical and inflexible way throughout the proceedings (see Centre for Legal Resources on behalf of Valentin Câmpeanu, cited above, § 96, with further references).
+122.  When it comes to cases brought by shareholders of a company, from the outset the Court has found it crucial to draw a distinction between complaints brought by shareholders about measures affecting their rights as shareholders and those about acts affecting companies in which they hold shares (see Agrotexim and Others v. Greece, 24 October 1995, §§ 65 and 66, Series A no. 330‑A; Olczak, cited above, § 61; and Lekić v. Slovenia [GC], no. 36480/07, § 111, 11 December 2018).
+123.  In the former group, shareholders themselves may be considered victims within the meaning of Article 34 of the Convention. In such cases the difference between the rights of the company and the rights of the shareholders is maintained and the company’s legal personality remains intact, as the complaints and the Court’s substantive analysis concern the rights and the situation of the company’s shareholders and not those of the company (see, for example, Olczak, cited above, §§ 71-85, and, mutatis mutandis, Shesti Mai Engineering OOD and Others v. Bulgaria, no. 17854/04, §§ 80-92, 20 September 2011; and Zülfikari v. Turkey, nos. 6372/05 and 52543/07, § 47, 19 March 2019).
+124.  In the latter group the general principle is that shareholders of companies cannot be seen as victims, within the meaning of Article 34 of the Convention, of acts and measures affecting their companies. The Court has recognised that this principle may be justifiably qualified in two kinds of situations: firstly, where the company and its shareholders are so closely identified with each other that it is artificial to distinguish between the two (see, as a recent example, KIPS DOO and Drekalović v. Montenegro, no. 28766/06, § 87, 26 June 2018); and, secondly, if it is warranted by “exceptional circumstances” (see, as recent examples, Feldman and Slovyanskyy Bank, cited above, §§ 28-29, and Vladimirova v. Russia, no. 21863/05, §§ 40-41, 10 April 2018).
+125.  The Court will now examine the above-mentioned distinction and those two situations in more detail.
+(a)   Distinction between acts and measures affecting the company and acts affecting the rights of shareholders as such
+126.  In drawing a line between the infringement of the rights of the company and of the shareholder, the Court has taken the following as a starting-point (see Olczak, cited above, § 59):
+“[T]he concept of a public company is founded on a clear distinction between the rights of the company and those of its shareholders. Only the company, which has legal personality, can take action in respect of corporate matters. A wrong done to the company can indirectly cause damage to its shareholders, but this does not mean that both are entitled to claim compensation. Whenever a shareholder’s interests are damaged by a measure directed at the company, it is up to the latter to take appropriate action. An infringement of the company’s rights does not entail liability to the shareholders, even if their interests are affected. Such liability is incurred only if the act complained of is directed at the rights of the shareholders as such (International Court of Justice, Barcelona Traction, Light and Power Company Limited, judgment of 5 February 1970, Reports of judgments, advisory opinions and orders 1970, pp. 39 and 41, §§ 56-58 and 66) ...”
+127.  In examining the question as to what constitutes an act “directed at the rights of the shareholders as such”, the Court has refused to accept the mere loss of value of the shares as the only decisive factor in this connection (see Agrotexim and Others, cited above, § 64); it has considered whether the likely effects of the measure in question not only concerned the applicant’s interests in the company, but were directly decisive for his or her individual rights (see, for example, Pokis v. Latvia (dec.), no. 528/02, ECHR 2006‑XV).
+128.  The case of Agrotexim and Others concerned town-planning measures taken by a municipality with a view to expropriating real estate belonging to a limited company (a brewery) in financial difficulty. The applicants were six companies holding about 51% of the brewery’s shares. They complained of a breach of Article 1 of Protocol No. 1 in so far as the measures adopted by Athens Municipal Council with regard to the sites owned by the brewery amounted to an unjustified interference with their right to the peaceful enjoyment of their possessions.
+129.  The Commission declared the application admissible, finding that the applicant companies as majority shareholders in the brewery could claim to be victims of the measures affecting the latter’s property. The Court disagreed with the Commission’s approach, which had seemed to suggest that where a violation of a company’s rights protected by Article 1 of Protocol No. 1 resulted in a fall in the value of its shares, there was automatically an infringement of the shareholders’ rights. It considered that such a criterion was an unacceptable one, in view of a potential conflict of interest between different actors and of difficulties arising in connection with the exhaustion of domestic remedies, as explained below:
+“64.  However, in its report the Commission seems to accept that where a violation of a company’s rights protected by Article 1 of Protocol No. 1 ... results in a fall in the value of its shares, there is automatically an infringement of the shareholders’ rights under that Article ...
+The Court considers that such an affirmation seeks to establish a criterion – and in the Court’s view an unacceptable one – for according shareholders locus standi to complain of a violation of their company’s rights under Article 1 of Protocol No. 1 ....
+65.   It is a perfectly normal occurrence in the life of a limited company for there to be differences of opinion among its shareholders or between its shareholders and its board of directors as to the reality of an infringement of the right to the peaceful enjoyment of the company’s possessions or concerning the most appropriate way of reacting to such an infringement. Such differences of opinion may, however, be more serious where the company is in the process of liquidation because the realisation of its assets and the discharging of its liabilities are intended primarily to meet the claims of the creditors of a company whose survival is rendered impossible by its financial situation, and only as a secondary aim to satisfy the claims of the shareholders, among whom any remaining assets are divided up.
+To adopt the Commission’s position would be to run the risk of creating – in view of these competing interests – difficulties in determining who is entitled to apply to the Strasbourg institutions.
+...”
+130.  In Olczak (cited above), where the applicant – a shareholder of a company – had complained under Article 1 of Protocol No. 1 that the Board of Receivers had divested his share of any value, the Court, in examining the issue of the applicant’s locus standi to complain of a violation of his property rights distinct from those of the bank, held:
+“58. [f]irstly ... that the present case can be distinguished from Agrotexim and Others in one important respect: the nature of the measures taken in the latter case, i.e. the prohibition on building and the bringing of expropriation proceedings, meant that it was the company itself which was the direct victim. In the present case, the measures complained of consisted of the cancellation of certain shares, including those belonging to the applicant; they were thus directly aimed at the applicant’s rights as a shareholder. Accordingly, it was the applicant’s rights as protected by Article 1 of Protocol No. 1 which were directly affected. Moreover, in Agrotexim and Others the measures complained of were prejudicial to the company, whereas in the present case their purpose was, on the contrary, to prevent the bank from becoming insolvent. Consequently, the bank was to benefit from them, whereas the applicant’s interests suffered.”
+131.  In a number of prior and subsequent cases where the measure complained of by an applicant shareholder directly and adversely affected legal rights covered by such share(s) or the ability to exercise such rights, the Convention institutions recognised the applicant’s victim status implicitly by accepting the case for examination without entering into a detailed discussion (see, as an early example, Erbs v. France, no. 23313/94, Commission decision of 18 May 1995, unreported; and also recently Reisner v. Turkey, no. 46815/09, § 45, 21 July 2015, and Zülfikari, cited above, § 47).
+132.  From these cases it transpires that the Court has been prepared to find an interference with the enjoyment of possessions where the impugned measures have directly and adversely affected the applicants’ ownership of their shares or their freedom to dispose of their shares (see Offerhaus and Offerhaus v. the Netherlands (dec.), no. 35730/97, 16 January 2001; Soyuer and Others v. Turkey (dec.), no. 49445/07, 21 June 2011; Melo Tadeu v. Portugal, no. 27785/10, § 75, 23 October 2014; Reisner, cited above, § 45; and Zülfikari, cited above, § 47), or obliged the applicant to sell his shares (see Kind v. Germany (dec.), no. 44324/98, 30 March 2000), or where the measures had decreased their power to influence the company vis-à-vis other shareholders (see Sovtransavto Holding v. Ukraine, no. 48553/99, § 92, ECHR 2002‑VII), to act as the company’s manager (see Erbs, cited above) or to vote (see Shesti Mai Engineering OOD and Others, cited above, § 80).
+133.  The Court considers that the above decisions are consistent with and can be viewed as illustrations of the general principles set out in the leading rulings in Agrotexim and Others and Olczak (both cited above), notably of measures directed or aimed at the applicant’s rights as a shareholder, to be distinguished from the infringements of the company’s right to the peaceful enjoyment of its possessions.
+134.  Having regard to the reasoning in those leading rulings and also taking due account of the above-mentioned case-law, the Court observes that acts affecting the rights of the shareholders are distinct from measures or proceedings affecting the company in that both the nature of such acts and their alleged effect impact the shareholders’ legal rights both directly and personally and go beyond merely disturbing their interests in the company by upsetting their position in the company’s governance structure.
+(b)   Examination of cases where the company and its shareholders are so closely identified with each other that it is artificial to distinguish between the two
+135.  Although companies with a separate legal personality are not normally to be identified with their shareholders, in some of its previous cases the Court has accepted that there are situations where it would “serve no purpose to distinguish between the two” (see Nassau Verzekering Maatschappij N.V. v. the Netherlands (dec.), no. 57602/09, § 21, 4 October 2011) and has allowed the shareholders to proceed with their complaints about the proceedings or events affecting their companies. For instance, in Pine Valley Developments Ltd and Others v. Ireland (29 November 1991, § 42, Series A no. 222), where the third applicant (Mr Healy) was the sole shareholder of the second applicant (Healy Holdings) which wholly owned the first applicant (Pine Valley), the Court noted that “Pine Valley and Healy Holdings were no more than vehicles through which Mr. Healy proposed to implement the development”.
+136.  The Court points out that the reason for accepting victim status in such cases is that there is “no risk of differences of opinion among shareholders or between shareholders and a board of directors as to the reality of infringements of the rights protected under the Convention and its Protocols or concerning the most appropriate way of reacting to such infringements” (see Ankarcrona v. Sweden (dec.), no. 35178/97, ECHR 2000-VI).
+137.  This group has included cases brought by shareholders of small or family-owned or family-run companies or cooperatives, notably where a sole owner of a company has complained about the measures taken in respect of his or her company (see, as early examples, Yarrow and Others v. the United Kingdom, no. 9266/81, Commission decision of 28 January 1983, Decisions and Reports (DR) 30, p. 155, where the victim status of the first applicant, who was the sole shareholder, was accepted without discussion of the issue, and Dyrwold v. Sweden, no. 12259/86, Commission decision of 7 September 1990, unreported; and, as recent examples, S.C. Fiercolect Impex S.R.L. v. Romania, no. 26429/07, §§ 38-41, 13 December 2016; Vujović and Lipa D.O.O. v. Montenegro, no. 18912/15, §§ 29-30, 20 February 2018; and Vladimirova, cited above, §§ 40-41) or where all shareholders of a small cooperative applied to the Court as applicants (see Jafarli and Others v. Azerbaijan, no. 36079/06, §§ 38-42, 29 July 2010). It has also included cases where one shareholder in a family-owned firm had lodged an application under the Convention, while the remaining shareholders at least did not object to this (see Khamidov v. Russia, no. 72118/01, §§ 123‑26, 15 November 2007; Kin-Stib and Majkić v. Serbia, no. 12312/05, § 74, 20 April 2010; Rysovskyy v. Ukraine, no. 29979/04, §§ 46-49, 20 October 2011; and KIPS DOO and Drekalović, cited above, §§ 86-87).
+(c)   Cases involving exceptional circumstances precluding the affected companies from bringing the cases to the Court in their own name
+138.  At the outset the Court would reiterate the relevant part of the recent judgment in Lekić (cited above, §§ 111 and 115), explaining the meaning of the principle relating to the lifting of the corporate veil and quoting the leading judgment in Agrotexim and Others (cited above):
+“111.  Lastly, in Agrotexim and Others, ... the Court held that only exceptional circumstances could justify the lifting of the corporate veil. This was ... in relation to a question ... whether a shareholder may in any circumstances claim to be a victim under Article 34 of the Convention as a result of actions aimed at the property of a company. Apparently, the rationale for the Court’s reasoning was that since companies had a distinct legal personality from shareholders, it was the former and not the latter who could lodge complaints of violations of Article 1 of Protocol No. 1 with the Court, unless, due to exceptional circumstances, the company was not in a position to do so. The Court observed (ibid., § 66) that the Supreme Courts of certain member States of the Council of Europe had taken the same line and that the principle had also been confirmed with regard to the diplomatic protection of companies by the International Court of Justice (‘ICJ’) in Barcelona Traction, Light and Power Company Limited (judgment of 5 February 1970, ICJ Reports 1970, pp. 39-40, §§ 55‑58). [While addressing both sides of the principle regarding the lifting of the veil from without and within, the ICJ stated the following with respect to the latter aspect which is in issue in the present case (bold added for emphasis):]
+‘57.  [T]he lifting of the veil is more frequently employed from without, in the interest of those dealing with the corporate entity. However, it has also been operated from within, in the interest of – among others – the shareholders, but only in exceptional circumstances.
+58.  In accordance with the principle expounded above, the process of lifting the veil, being an exceptional one admitted by municipal law in respect of an institution of its own making, is equally admissible to play a similar role in international law. It follows that on the international plane also there may in principle be special circumstances which justify the lifting of the veil in the interest of shareholders.’
+The Court has then applied the Agrotexim test on a number of occasions, when dealing with shareholders’ claims to be identified with companies for the purposes of ‘victim’ status – that is, ‘from within’ in the parlance of the ICJ (see Centro Europa 7 S.r.1. and Di Stefano [v. Italy [GC], no. 38433/09],  §§ 90-95 [ECHR 2012], and the authorities cited therein) ...
+115.  ... However, the exceptional character of the circumstances that may warrant the lifting of the corporate veil essentially comes down to the nature of the issues to be decided by the competent national court, not to the frequency of such situations. It does not mean that this kind of measure may be justified only in rare cases (see, mutatis mutandis, Miller v. Sweden, no. 55853/00, § 29, 8 February 2005, in relation to an issue under Article 6).” (bold added for emphasis)
+139.  As explained above, in certain cases the Court may indeed disregard the company’s distinct legal personality and allow shareholders to bring complaints concerning the rights and the situation of the company. The exceptional character of the circumstances that may warrant such decision hinges on whether the company in question was precluded from bringing the relevant case to the Court in its own name (see, as a recent example, Centro Europa 7 S.r.l. and Di Stefano, cited above, §§ 92-95).
+140.  The starting-point for the Court, however, is that when a company is run by its management, duly appointed by the company’s competent statutory bodies, the management has to bring the relevant complaints and such cases should be lodged in the company’s, and not the manager’s, name (see J.W. v. Poland, no. 27917/95, Commission decision of 11 September 1997, unreported, and Bayramov v. Azerbaijan (dec.), no. 23055/03, 14 February 2006).
+141.  The Court has, as a rule, refused to examine cases brought solely by the company’s individual shareholders (see, among early authorities, Fridh and Cifond Aktiebolag v. Sweden, no. 14017/88, Commission decision of 2 July 1992, unreported; Tee v. the United Kingdom, no. 26663/95, Commission decision of 28 February 1996, unreported; among the latest examples, Anttila v. Finland (dec.), no. 16248/10, 19 November 2013; Georgescu and Prodas Holding S.A. v. Romania (dec.), no. 25830/03, 27 May 2014; and Gubarev and Serdyukov v. Russia (dec.), no. 42334/06, 18 June 2019). In numerous cases which were brought by both a company and its shareholders, the Court has accepted applications for examination only in so far as they were brought by the company itself and has rejected the remainder for lack of standing (see, as the latest examples, Gărdean and S.C. Grup 95 SA v. Romania, no. 25787/04, §§ 16-18, 1 December 2009; S.C. Bartolo Prod Com SRL and Botomei v. Romania, no. 16294/03, §§ 29‑31, 21 February 2012; and Erduran and Em Export Dış Tic A.Ş. v. Turkey, nos. 25707/05 and 28614/06, §§ 59-61, 20 November 2018).
+142.  In a number of cases lodged before it concerning companies in respect of which some degree of outside supervision or control had been imposed due to the company’s financial or other difficulties, the Court decided the question of the shareholders’ victim status by examining in detail the alleged impediments to the company’s ability to institute proceedings under the Convention on its own. In some instances, the Court agreed with the applicants’ arguments and acknowledged that the existence of “exceptional circumstances” had precluded the affected company from bringing the case and allowed the shareholders to proceed with their complaint, notwithstanding the company’s existence with separate legal personality (see, for example, Credit and Industrial Bank, cited above, § 51; Camberrow MM5 AD v. Bulgaria (dec.), no. 50357/99, 1 April 2004; Capital Bank AD v. Bulgaria (dec.), no. 49429/99, 9 September 2004; and International Bank for Commerce and Development AD and Others v. Bulgaria, no. 7031/05, §§ 90-92, 2 June 2016).
+143.  In cases falling within this group, the mere existence of measures of outside supervision or control in respect of the company in issue was generally viewed as an important factor, but not the only one. As explained by the Court in Agrotexim and Others (cited above), the differences of opinion between various stakeholders of a company which are characteristic of “the life of a limited company” are exacerbated where insolvency or other similar types of proceedings (involving the transfer of control of the company’s matters to an outside official) are brought in respect of the company (ibid., § 65). Yet, even then “the piercing of the ‘corporate veil’ or the disregarding of a company’s legal personality will be justified only in exceptional circumstances, in particular where it is clearly established that it is impossible for the company to apply to the Convention institutions through the organs set up under its articles of incorporation or – in the event of liquidation – through its liquidators” (ibid., § 66).
+144.  As to what “circumstances” may be considered “exceptional”, from an analysis of the Court’s case-law it can be seen that in the cases where shareholders were allowed to proceed with their complaints on behalf of the company, the burden was on them to demonstrate that an official who had been tasked with looking after the company’s interests at the relevant time was unable or unwilling to apply to domestic courts and the Strasbourg Court with the grievances in issue (ibid., § 70; and see Vesela and Loyka v. Slovakia (dec.), no. 54811/00, 13 December 2005); that the Convention complaint concerned a matter, such as the removal of a regular manager and the appointment of a trustee, in respect of which there was a difference of opinion between the trustee and the shareholders (see Credit and Industrial Bank, § 51; Camberrow MM5 AD; Capital Bank AD; and International Bank for Commerce and Development AD and Others, §§ 90-92, all cited above); or that various actions of the trustee affected the interests of the shareholders (see G.J. v. Luxembourg, no. 21156/93, §§ 23-24, 26 October 2000; Feldman and Slovyanskyy Bank, cited above, §§ 28-29; and Vesela and Loyka, cited above). In each case, the matter was such that its potential impact could have had a serious effect on the shareholders’ situation, either directly (see S.p.r.l. ANCA and Others v. Belgium, no. 10259/83, Commission decision of 10 December 1984, unreported) or indirectly (see G.J. v. Luxembourg, § 24, cited above).
+145.  Against this background, it is clear that, in order for applicants to satisfy the Court that their pursuit, as shareholders, of a matter affecting the company is justified by “exceptional circumstances”, they ought to give weighty and convincing reasons demonstrating that it is practically or effectively impossible for the company to apply to the Convention institutions through the organs set up under its articles of association and that they should therefore be allowed to proceed with the complaint on the company’s behalf.
+146.  The Court notes that the applicants – shareholders of the two banks – put forward three arguments to prove that they had standing to bring the complaints. They argued firstly that the Integration Act directly infringed their property rights as shareholders. Secondly, they also maintained that the Court should “pierce the corporate veil” and recognise their standing to complain on behalf of Kinizsi Bank and Mohácsi Bank because the applicants “own[ed] almost 100% of the shares”. Thirdly, they submitted that they had standing to bring the case because of “the high degree of State involvement in the integration”.
+147.  The Court will examine each of these arguments in turn.
+(a)   Whether the Integration Act and the Amendments directly affected the applicants’ rights as shareholders as such
+148.  Turning to the circumstances of the present case, the Court observes that the Integration Act passed in 2013 made Kinizsi Bank and Mohácsi Bank ipso jure members of the new State-sponsored integration scheme (see paragraphs 23-33 above) and the banks were faced with a choice between either remaining members of the Organisation or leaving it. Choosing to leave implied the need to reapply for a new banking licence (see paragraphs 30-32 above) and also, among other things, the requirement to raise the banks’ own capital (see paragraph 32 above), whereas remaining as a member required the banks to agree to a significant loss of their operational autonomy (see paragraphs 27-29 above).
+149.  Given the consequences of non-compliance with the requirements of the Integration Act (see paragraphs 28-29 above), the relevant provisions of the impugned legislation clearly had a coercive and involuntary character. The choice to remain had to be made by the competent bodies of the banks, that is, the general meeting of their shareholders, which included most of the applicants in the present case, and the banks’ management. In the end both banks agreed to remain members of the integration and, as a result, lost a significant amount of their operational autonomy (see paragraph 56 above).
+150.  The rights that the applicants alleged they had lost included the possibility of establishing and amending the respective articles of association of the two companies. The applicants also criticised various restrictions concerning the approval of the annual financial report of the company, the issuing of bonds, the acquisition of equity capital, appointments of chief officers and the conversion, merger and demerger of the companies introduced by the Integration Act.
+151.  Having examined the provisions of the Integration Act, the Civil Code, the parties’ observations and also their comments at the hearing, the Court notes firstly that it is not in dispute that the Integration Act and its Amendments did not regulate directly, even on a temporary basis, any of the specific legal rights that the applicants as shareholders held under the applicable domestic law, or directly interfere with the exercise of these rights (contrast Erbs; Kind; Offerhaus and Offerhaus; Melo Tadeu; Reisner; Zülfikari; and Soyuer and Others, all cited above). Nor does it appear that the impugned legislation had an adverse impact on the business of the two banks (see paragraph 102 above).
+152.  The matters to which the applicants referred as examples of restrictions of their rights were in fact powers which, under the applicable domestic law, belonged to and were exercised exclusively by the companies’ statutory bodies. Moreover, their exercise of these powers was subject to various procedural rules, including quorum and majority requirements (see paragraphs 63-64 above).
+153.  Thus, the reform was aimed at and indeed directly affected the governing structures of the two banks, their respective general meetings of shareholders and their boards of directors. As a consequence, these bodies permanently lost a significant degree of their powers in managing the banks in so far as such powers had been conferred to the Integration Organisation and the Savings Bank.
+154.  As regards the powers of individual shareholders, each of them could exercise his or her rights in respect of the above-mentioned matters, notably by being involved in the decision-making process and voting. The applicants’ interests were thus also affected by the reform. However, their individual shareholdings were of such size that each of them could not, in his or her capacity as a shareholder, control any of the banks (see, mutatis mutandis, Company S. and T. v. Sweden, no. 11189/84, Commission decision of 11 December 1986, DR 50, p. 121). Given the number of shareholders that each of the two banks had, the number of shares owned by an average shareholder (see paragraph 12 above) and the lack of any indication that at the relevant time the applicants as a group were bound by a shareholder agreement or other means of consolidating their fragmented influence at general meetings of the two banks, the Court finds that the influence of a single shareholder over other shareholders at any given moment was on the whole weak. In these circumstances there is nothing to indicate that the applicants’ rights as individual shareholders were as such aimed at or adversely affected by the impugned measures, which essentially related to corporate matters.
+155.  It follows that, even though the reform had a considerable impact at company level, its bearing on the situation of individual shareholders, while real, was nevertheless incidental and indirect. The present case can therefore be distinguished from Olczak (cited above) and Shesti Mai Engineering OOD and Others (cited above), where the relevant measures, such as the artificial dilution of a shareholder’s voting power or the outright cancellation of shares, either directly affected the applicants’ legal rights or had direct and decisive effect on their exercise. In these circumstances the Court concludes that the acts complained of by the applicants concerned principally Kinizsi Bank and Mohácsi Bank, and did not directly affect the applicants’ shareholder rights as such.
+156.  The Court will now examine the applicants’ request to allow them to proceed with the complaints on behalf of the two banks with reference to the fact that they owned “almost 100% of the banks’ shares” and also because of “the high degree of State involvement in the integration”.
+(b)   Whether the applicants as shareholders could be identified with their banks
+157.  The Court observes that the two banks were not family-run or family-owned firms or otherwise closely held entities, but rather public companies with limited liability, numerous shareholders and a fully delegated management. This being so, the exact percentage of shares that the applicants may have owned in the two banks is not dispositive, as they did not “carry [out their] own business through the medium of the company [or have] a direct personal interest in the subject matter of the complaint” (contrast Kaplan v. the United Kingdom, no. 7598/76, Commission decision of 14 December 1978, DR 15, p. 120). In these circumstances it cannot be assumed that the company and its shareholders were so closely identified with each other that it would be artificial to distinguish between the two.
+158.  Accordingly, the Court rejects the applicants’ argument.
+(c)   Whether the case involved exceptional circumstances precluding the companies concerned from bringing the cases to the Court on their own behalf
+159.  Turning to the applicants’ argument that they had standing because of “the high degree of State involvement in the integration”, the Court observes firstly that it was not in dispute between the parties that the two banks were never the subject of any insolvency or bankruptcy proceedings (contrast Credit and Industrial Bank, cited above, § 51, and the line of case-law cited in paragraph 142 above) and that throughout the relevant time the two banks remained operational and their regular management remained in place.
+160.  It further notes that the applicants collectively held considerable voting majorities in the general meetings of the two banks (see paragraph 12 above) and could, if they so wished, direct the banks to bring legal proceedings on their behalf. The Court finds that it cannot be said that the officials who had been tasked with looking after the two companies’ interests at the relevant time were unable to apply to the Court with the grievances in issue.
+161.  As to the further question whether the banks were precluded from bringing their case on account of undue pressure from the authorities, the Court observes that the applicants did not make any specific allegations regarding either direct or implied threats to this effect. Instead, they vaguely referred to “the high degree of State involvement in the integration”.
+162.  Having examined the relevant provisions of domestic law, the parties’ submissions and the course of events in the case, the Court recognises that the circumstances of the adoption and entry into force of the Integration Act suggest that the future member institutions may have felt some pressure to join the new integration. This is evident in that the legal obligation to become members of the Integration Organisation (see paragraphs 23-33 above) was combined with heavy financial and formal conditions and time constraints (see paragraphs 30-32 above). In addition, as a result of the reform, the Integration Organisation acquired a seemingly wide discretion over its members to impose sanctions, including severe ones, such as exclusion of members and the withdrawal of licences (see paragraphs 25-26 above).
+163.  At the same time, in the Court’s view, any pressure to join the integration should not be taken to mean that pressure was also brought to bear in order to prevent the reform or related measures from being challenged before the courts. On the basis of the applicants’ submissions and the material in the case file, the Court finds no evidence of any pressure on the banks to prevent them from challenging the reform. Quite the contrary, the domestic legal system provided future member institutions and individuals concerned with access to a court to contest the reform in general as well as specific decisions of the Integration Organisation.
+164.  In particular, the entirety of the impugned legislation was challenged before the Constitutional Court, which intervened on behalf of some savings cooperatives and modified some of its provisions (see paragraphs 83-89 above). This eventually resulted in the Amendments to the Integration Act (see paragraph 21 above). It should also be noted that in so far as the reform subjected the banks to the supervisory powers of the Integration Organisation and the Savings Bank, the latter bodies’ specific decisions were not only open to judicial review before the domestic courts, but such remedies were indeed used and with success (see paragraph 57 above; and contrast Capital Bank AD, cited above, § 135).
+165.  In view of the above considerations, the Court finds no indication that in the present case there existed exceptional circumstances precluding the affected companies from bringing the respective cases to the Court in their own names.
+(d)   Conclusion
+166.  The Court finds that in the circumstances of the present case the complaints about the Integration Act and the Amendments should have been brought by the two banks and that the applicants cannot claim to be victims of the alleged violations within the meaning of Article 34 of the Convention. Therefore, the Court is unable to take cognisance of the merits of the applicants’ complaint.
+167.  The Court’s findings above do not appear to be at variance with the standard that has emerged in the regulatory context of many of the Council of Europe member States, namely that of accepting fairly severe intrusive measures in respect of banks and assimilated institutions, as insufficient regulation of this sector was seen as capable of resulting in serious systemic risks for the respective economies (see paragraphs 90-95 above).
+168.  It follows that the applicants’ complaints are incompatible ratione personae with the provisions of the Convention. The Court also reiterates that under Article 35 § 4 of the Convention, it may dismiss applications which it considers inadmissible “at any stage of the proceedings” and that, therefore, subject to Rule 55 of the Rules of Court, the Grand Chamber may reconsider a decision to declare an application admissible (see, for example, Ilias and Ahmed, cited above, §§ 80 and 250, with further references).
+169.  The Court thus holds that this part of the application must be declared inadmissible in accordance with Article 35 §§ 3 (a) and 4 of the Convention.
+FOR THESE REASONS, THE COURT, UNANIMOUSLY,
+Søren Prebensen Ksenija Turković
+Deputy to the Registrar President
+In accordance with Article 45 § 2 of the Convention and Rule 74 § 2 of the Rules of Court, the separate opinion of Judge Dedov is annexed to this judgment.
+K.TU.
+S.C.P.
+CONCURRING OPINION OF JUDGE DEDOV
+1.  It is not so easy for me to agree with the conclusion of the Court in paragraph 155 of the judgment that “the acts complained of by the applicants concerned principally Kinizsi Bank and Mohácsi Bank, and did not directly affect the applicants’ shareholder rights as such” (having said that the impact on the latter “whilst real, was nevertheless incidental and indirect”). The Court explained its vision of the situation by separating the shareholders from the company’s governing bodies. This criterion is the first and the most important when proceeding with further examination of the present case.
+2.  The Court noted that the reform was aimed at, and indeed directly affected, the governing structures of the two banks, their respective general meetings of shareholders and their boards of directors. As a consequence, these bodies permanently lost some of their powers in managing the banks, in so far as such powers had been conferred to the Integration Organisation and the Savings Bank.
+3.  In my view, the structure of corporate governance is a model of democracy. Corporate law is highly tried and tested in this domain, regulating and analysing the functioning of executive officers, boards of directors and shareholder meetings, to set limits on their powers, strike a balance of interests and ensure the effective protection of shareholders’ rights. Normally the chief executive officer has the constitutional power to represent the company, but this power is not unlimited. Moreover, in the event of a corporate conflict (if the managers fail to act in the interests of the company), the company and shareholders are not separated from each other because their interests are presumed to be the same. Thus it is presumed that the managers (executives and members of the board) should act in favour of the company, and therefore, in favour of shareholders since their long-term interests coincide with the long-term interests of the company.
+4.  This theory of corporate democracy means that, within the corporate structure of the company, the general meeting of shareholders takes on a very special nature and it should be distinguished from other governing bodies. All dreams and frustrations of direct democracy are embodied in the phenomenon of the shareholders’ meeting. At their meeting the majority of shareholders take the most important decisions relating to the corporate capital in accordance with the corporate strategy. Therefore, if the Integration Act limited the powers of shareholders’ meetings, it has also directly limited the voting rights of shareholders.
+5.  As regards the powers of individual shareholders, each of them could normally exercise his or her rights in respect of the above-mentioned matters, notably by being involved in the decision-making process and voting. The applicants’ interests are also affected by the reform. However, given the number of shareholders that each of the two banks had, the number of shares owned by an average shareholder (paragraph 12 of the judgment) and the lack of any indication that at the relevant time the applicants as a group were bound by a shareholder agreement or other means of consolidating their fragmented influence at general meetings of the two banks, the Court found that the say of a single shareholder in the relevant matters at any given moment varied significantly depending on a number of factors and was on the whole relatively weak (paragraphs 153 and 154 of the judgment).
+6.  In turn, I found the latter point raised by the Court to be “relatively weak”. It does not matter how many shares belong to each applicant. They held collectively some 98.28% of shares in Kinizsi Bank and some 87.65% of shares in Mohácsi Bank which means that they enjoyed the controlling interest in the companies’ share capital. But even though each individual applicant is a small shareholder, this is not relevant to the circumstances of the case because when the shareholder’s vote joins the decision of the majority at the general meeting of shareholders the whole majority, including that small shareholder, would be confronted with the power of the Savings Bank to approve or not approve the decision of the shareholders’ meeting. Thus it could be concluded that since the votes of shareholders are united in making a corporate decision, the interests of every small shareholder are affected even if the individual shareholder has no controlling stake in the share capital and no decisive influence on the corporate decision-making process. An opposite approach would lead to discrimination against small shareholders.
+7.  It is therefore hard to accept that the matters to which the applicants referred as examples of restrictions on their rights were in fact powers which, under the applicable domestic law, belonged to and were exercised exclusively by the companies’ statutory bodies (see paragraph 152 of the judgment). The Court added that the exercise of those powers was subject to various procedural rules, including quorum and majority requirements. However, those factors play out in favour of the applicants, since they represented a quorum and adopted their respective decision by a majority.
+8.  Moreover, it would be contrary to the theory of corporate law to distinguish individual shareholders from the shareholders’ meeting acting as a governing body of the company. The shareholders exercise their governing rights, vested in their shares, through their participation at the shareholders’ meeting, where they make the most important corporate decisions. We cannot say to the individual shareholder who voted with the majority: “it was not you who made a decision, it was a shareholders’ meeting, a special statutory body of the company”. It would be wrong to say that the reform affected the general meeting of shareholders, but not the shareholders themselves (see paragraph 153 of the judgment).
+9.  Therefore it would be contrary to corporate law to conclude that “the Integration Act did not regulate directly, even on a temporary basis, any of the specific legal rights that the applicants as shareholders held under the applicable domestic law, or directly interfere with the exercise of these rights” (see paragraph 151 of the judgment).
+10.  The Court preferred to stop at the admissibility stage and not to examine the merits of the case. However, the Court should have taken into account the specificity of the complex interplay between various interests in the domain of corporate law. Interests (that is, their existence or absence) could or could not be converted into rights under corporate law. Otherwise one may reach a controversial conclusion like that of the present judgment: the Court accepted that the applicants’ interests were affected by the reform, but considered their shareholders’ rights not to be affected. In my view, there was interference: the applicants’ rights and interests were indeed affected by the reform. However, I still do not see any prospect of deciding the case in favour of the applicants, owing to a number of decisive factors which convinced me to join the majority in the present case. The Court concluded in paragraph 154: “there is nothing to indicate that the applicants’ rights as individual shareholders were as such aimed at or adversely affected by the impugned measures”. In my view, their rights were “aimed at”, but not adversely affected, as the applicants failed to prove that the interference was disproportionate.
+11.  The Court reiterates in paragraph 120 of the judgment that Article 34 of the Convention does not allow complaints in abstracto alleging a violation of the Convention. The applicants provided examples of corporate decisions which had been vetoed by the Savings Bank. However, on a domestic level the parties did not discuss whether the Savings Bank had gone beyond the legitimate aim to ensure the financial stability of the credit institutions and whether the impugned measures disproportionately affected the applicants’ rights, for example, to receive dividends or to appoint their candidates to executive office. The question of effective remedies therefore arises.
+12.  Another factor relates to the losses which could allegedly be sustained by the applicants. The Court reiterates that the consequences of an interference should lead to the losses in question. As I understand it, the existence of losses is important in order to establish the victim status of the applicants under Article 1 of Protocol No. 1 to the Convention. However, there is no suggestion in the applicants’ submissions that the Government’s interference was in any way directly economically detrimental to the respective banks’ businesses (paragraph 102 of the judgment).
+13.  I agree with the latter finding, and I think it should have been examined separately without a special link to the formal shareholder rights. Share value is the core and long-term interest of any investor. All principles of corporate law are concentrated on the share value as an ultimate public interest and a legitimate aim.
+14.  The value of each share depends on the value of the whole business of the company; this is an additional argument to link the interests of each shareholder with measures which might lead to losses of the company. However, in the Agrotexim and Others v. Greece (24 October 1995, Series A no. 330‑A) judgment the Court refused to accept the mere loss of value of the shares as the only decisive factor in examining the question as to what constituted an act “directed at the rights of the shareholders as such”. In this connection it has considered whether the likely effects of the measure in question not only concerned the applicant’s interests in the company, but were directly decisive for his or her individual rights (see paragraph 127 of the judgment).
+15.  The Grand Chamber could have used the opportunity to correct this position, which could be applicable in a very specific situation. For example, in the Agrotexim and Others case the share value had fallen due to the insolvency of the company, which then went through bankruptcy proceedings. As regards the corporate status in general, it would be an excessive burden for the shareholders to prove separately that the impugned measures affected the share value, their individual rights and their interests in the company as proposed above. As regards the present case, the applicants did not prove that they had sustained a loss of share value owing to the impugned reform, and it was enough to make a decision about their victim status.
+16.  Finally, the Court honestly recognised that the cooperative credit institutions had lost their autonomy as a result of the reform which was aimed at and indeed directly affected the governing structures of the two banks, their respective general meetings of shareholders and their boards of directors. As a consequence, these bodies permanently lost some of their powers in managing the banks in so far as such powers had been conferred to the Integration Organisation and the Savings Bank (see paragraph 153 of the judgment). The Court noted that the banks were faced with a choice between remaining members of the Organisation and leaving it. The choice of leaving implied the need to re-apply for a new banking licence and also, among other things, the requirement to raise the banks’ own capital, whereas the option of remaining as a member required the banks to agree to a significant loss of their operational autonomy (see paragraph 148 of the judgment).
+17.  One can see the logic in the whole idea of the Integration: a consolidation of the assets and capital without imposing an obligation on each member of the organisation to raise the capital in order to ensure financial stability. Indeed, it is a business model aimed at managing the microcredit activity of small cooperative credit institutions, and the reform was not limited to imposing formal capital adequacy requirements on the credit institutions, but was intended to help determine their business strategy. In particular, the Savings Bank is empowered to adopt rules to be complied with by cooperative credit institutions on the following matters: (a) the detailed rules of risk management, including credit authorisation, risk monitoring, deposit allocation, cash management and investment policy, rules of evaluation and depreciation and rules on additional specific capital requirements in addition to laws, regulations and other binding rules; (b) the applicable business policy; (c) the joint marketing activity; and (d) the establishment of an integrated IT system (see paragraph 69 of the judgment).
+18.  I presume that the State could have the right to enforce such laws as it deems necessary to control the use of property in accordance with the general interest as required by Article 1 of Protocol No. 1 to the Convention. The proportionality of the interference, however, could be challenged by the fact that such organisation of a financial market is unique, and normally financial security is achieved by capital adequacy rules without interference with the ordinary business of credit institutions. There is an alternative in deciding how to regulate microcredit activity with relatively low equity capital: by limiting the scope of banking operations. Moreover, it is a widespread practice to set up capital requirements subject to the services of each type of financial institution. However, I am not in a position to make a decision about the proportionality of the interference because of a lack of information as to whether the above issues had been raised by the applicants and examined by the competent authorities in the domestic proceedings.
+APPENDIX
+No.
+Name of applicant
+Date of birth
+Place of residence
+Name of the bank
+concerned
+1.
+Józsefné Albert
+17/04/1935
+Szentjakabfa
+Kinizsi Bank
+2.
+Zoltán Agg
+26/07/1975
+Mohács
+Mohácsi Bank
+3.
+Erzsébet Ambergné
+Schumacher
+(heir: Erzsébet Amberg)
+11/04/1948
+Nagyvázsony
+Kinizsi Bank
+4.
+Anita Auth (changed her name from Anita Ritzlné Auth)
+27/02/1971
+Somberek
+Mohácsi Bank
+5.
+József Auth
+02/12/1943
+Somberek
+Mohácsi Bank
+6.
+Józsefné Auth
+12/09/1945
+Somberek
+Mohácsi Bank
+7.
+Katalin Bali
+31/05/1941
+Mohács
+Mohácsi Bank
+8.
+Gábor Barta
+11/11/1951
+Véménd
+Mohácsi Bank
+9.
+Antalné Baumgartner
+01/12/1951
+Véménd
+Mohácsi Bank
+10.
+József Antal Beck
+27/07/1954
+Babarc
+Mohácsi Bank
+11.
+József Becker
+03/07/1961
+Babarc
+Mohácsi Bank
+12.
+Mihály Belvaracz
+13/07/1939
+Mohács
+Mohácsi Bank
+13.
+Józsefné Bicsérdi
+22/06/1947
+Lánycsók
+Mohácsi Bank
+14.
+Ádámné Boda
+19/11/1949
+Kisnyárád
+Mohácsi Bank
+15.
+Márta Bogdán
+22/08/1958
+Zánka
+Kinizsi Bank
+16.
+Endre Bókay
+25/05/1954
+Pécs
+Mohácsi Bank
+17.
+Istvánné Bokros
+24/12/1951
+Somberek
+Mohácsi Bank
+19.
+István Bubreg
+08/11/1942
+Mohács
+Mohácsi Bank
+20.
+Istvánné Bubreg
+26/01/1946
+Mohács
+Mohácsi Bank
+21.
+Krisztina Bubregné Haris
+28/08/1977
+Mohács
+Mohácsi Bank
+22.
+Eszter Bucher
+14/11/1977
+Pécs
+Mohácsi Bank
+23.
+Tamás Bucher
+30/03/1986
+Szombathely
+Mohácsi Bank
+24.
+Gyula Csanádi
+(heir: László Gyula Csanádi)
+23/12/1940
+Mohács
+Mohácsi Bank
+25.
+László Gyula Csanádi
+28/04/1967
+Mohács
+Mohácsi Bank
+26.
+Ferenc Cseh
+10/12/1947
+Szentantalfa
+Kinizsi Bank
+27.
+Eszter Csizmadia
+22/05/1968
+Pécs
+Mohácsi Bank
+28.
+Gergely Dárdai
+09/05/1952
+Véménd
+Mohácsi Bank
+29.
+Gergelyné Dárdai
+31/07/1956
+Véménd
+Mohácsi Bank
+30.
+Istvánné Dávid
+12/02/1959
+Palotabozsok
+Mohácsi Bank
+31.
+Gyula Dombai
+17/11/1939
+Somberek
+Mohácsi Bank
+32.
+Imre László Domonkos
+05/03/1962
+Keszü
+Mohácsi Bank
+33.
+Dezső Ejhinger
+23/09/1935
+Ajka
+Kinizsi Bank
+34.
+Gellért Éva
+08/10/1954
+Mohács
+Mohácsi Bank
+35.
+Endre Bertalan Fábián
+22/04/1951
+Nemesvámos
+Kinizsi Bank
+36.
+Istvánné Facskó
+17/08/1935
+Mohács
+Mohácsi Bank
+37.
+László Faddi
+23/08/1961
+Pécs
+Mohácsi Bank
+38.
+Mária Márta Fekete
+17/12/1940
+Budapest
+Kinizsi Bank
+39.
+József Attiláné Irényi
+03/04/1955
+Lánycsók
+Mohácsi Bank
+40.
+György Fischer
+28/03/1956
+Dunaszekcső
+Mohácsi Bank
+41.
+Gábor Flódung
+22/03/1970
+Palotabozsok
+Mohácsi Bank
+42.
+Bence Flórián
+18/03/1983
+Veszprém
+Kinizsi Bank
+43.
+Dóra Flórián
+22/12/1978
+Veszprém
+Kinizsi Bank
+44.
+Gyulané Flórián
+(heir: Gyula György Flórián)
+16/05/1916
+Veszprém
+Kinizsi Bank
+45.
+Gyula György Flórián
+10/12/1943
+Veszprém
+Kinizsi Bank
+46.
+István Flórián Fodor
+11/08/1946
+Tótvázsony
+Kinizsi Bank
+47.
+András Folbert
+23/04/1959
+Mohács
+Mohácsi Bank
+48.
+József Frischmann
+12/10/1951
+Mohács
+Mohácsi Bank
+49.
+András Gász
+(heirs: Judit Terézia Ádámné Gász, Andrea Domokosné Gász, Andrásné Gász)
+04/09/1940
+Véménd
+Mohácsi Bank
+50.
+Andrásné Gász
+17/09/1942
+Véménd
+Mohácsi Bank
+51.
+Judit Gergely
+22/12/1964
+Mohács
+Mohácsi Bank
+52.
+Tibor Gergely
+16/04/1960
+Mohács
+Mohácsi Bank
+53.
+Orsolya Erzsébet Gilly
+05/03/1964
+Mohács
+Mohácsi Bank
+54.
+Péter István Ginter
+20/08/1938
+Palotabozsok
+Mohácsi Bank
+55.
+Györgyi Grób
+09/07/1952
+Mohács
+Mohácsi Bank
+56.
+Éva Irén Gyimesi
+01/12/1962
+Bonyhád
+Mohácsi Bank
+57.
+Jánosné Gyimesi
+05/02/1942
+Palotabozsok
+Mohácsi Bank
+58.
+József János Hadra
+03/01/1959
+Lánycsók
+Mohácsi Bank
+59.
+Zsolt Hafner
+15/05/1970
+Mohács
+Mohácsi Bank
+60.
+István Hagen
+06/04/1972
+Mohács
+Mohácsi Bank
+61.
+János István Hagen
+20/08/1938
+Mohács
+Mohácsi Bank
+62.
+Ernő Harcz
+06/04/1944
+Mohács
+Mohácsi Bank
+63.
+Zoltán Elek Hardi
+07/10/1954
+Öcs
+Kinizsi Bank
+64.
+Károly Hegyi
+12/05/1942
+Ajka
+Kinizsi Bank
+65.
+Zoltán András Helilig
+01/03/1956
+Tótvázsony
+Kinizsi Bank
+66.
+Hanna Heirich
+05/07/1982
+Véménd
+Mohácsi Bank
+67.
+József Heirich
+26/03/1962
+Véménd
+Mohácsi Bank
+68.
+Józsefné Heirich
+27/09/1956
+Véménd
+Mohácsi Bank
+69.
+József Hellebrand
+19/09/1961
+Palotabozsok
+Mohácsi Bank
+70.
+Józsefné Hellebrand
+17/04/1965
+Palotabozsok
+Mohácsi Bank
+71.
+János Hengl
+13/11/1954
+Mohács
+Mohácsi Bank
+72.
+József Higli
+16/10/1937
+Balatoncsicsó
+Kinizsi Bank
+73.
+Györgyné Hoffmann
+23/02/1932
+Babarc
+Mohácsi Bank
+74.
+Józsefné Holocsi
+17/09/1943
+Somberek
+Mohácsi Bank
+75.
+Etele Péterné Horváth
+21/01/1959
+Véménd
+Mohácsi Bank
+76.
+Judit Hunyadiné Tóth
+03/12/1955
+Mohács
+Mohácsi Bank
+77.
+László György Huppert
+09/10/1955
+Majs
+Mohácsi Bank
+78.
+Konrád Hüttner
+31/05/1951
+Lánycsók
+Mohácsi Bank
+79.
+Bence Ferenc Illés
+12/12/1989
+Lánycsók
+Mohácsi Bank
+80.
+Zsuzsanna Illésné Hengl
+19/01/1964
+Lánycsók
+Mohácsi Bank
+81.
+László Sándor Jónás
+(heir: Glória Hoffmanné Jónás, Robin Jónás)
+16/10/1949
+Mohács
+Mohácsi Bank
+82.
+Attila Jordán
+03/05/1970
+Palotabozsok
+Mohácsi Bank
+83.
+Klára Katalin Jordánné Kovács
+09/12/1974
+Palotabozsok
+Mohácsi Bank
+84.
+Krisztina Kresz
+(changed her name from Krisztina Jordanne Kresz)
+16/01/1970
+Kozármisleny
+Mohácsi Bank
+85.
+Béla Juhos[1]
+29/12/1940
+Mohács
+Mohácsi Bank
+86.
+Béláné Juhos[2]
+24/08/1942
+Mohács
+Mohácsi Bank
+87.
+Erzsébet Jung
+10/12/1954
+Veszprém
+Kinizsi Bank
+88.
+Ferenc Kaiser
+18/03/1948
+Székelyszabar
+Mohácsi Bank
+89.
+Anita Kajtár
+26/07/1972
+Pécs
+Mohácsi Bank
+90.
+Csaba Kajtár
+31/10/1974
+Pécsvárad
+Mohácsi Bank
+91.
+István Kaponyi
+09/06/1942
+Mohács
+Mohácsi Bank
+92.
+Kálmánné Karádi
+26/11/1962
+Pécs
+Mohácsi Bank
+93.
+László Józsefné Kern
+27/03/1955
+Lánycsók
+Mohácsi Bank
+94.
+Attila Keszler
+04/05/1969
+Romonya
+Mohácsi Bank
+95.
+Gyöngyi Anna Kettné
+Rott
+13/05/1963
+Mohács
+Mohácsi Bank
+96.
+Gyuláné Kincses
+13/05/1926
+Veszprém
+Kinizsi Bank
+97.
+Klára Ilona Kincses
+25/05/1953
+Veszprém
+Kinizsi Bank
+98.
+Károly Kis
+07/04/1953
+Mohács
+Mohácsi Bank
+99.
+István Kiss
+17/08/1947
+Palotabozsok
+Mohácsi Bank
+100.
+Sándor Kiss-Sebök
+22/07/1946
+Balatonfüred
+Kinizsi Bank
+101.
+Zoltán György Kliebert
+29/09/1952
+Babarc
+Mohácsi Bank
+102.
+Attila Kostyák
+01/04/1979
+Mohács
+Mohácsi Bank
+103.
+Gábor Kovács
+12/11/1945
+Szentantalfa
+Kinizsi Bank
+104.
+Gábor Attila Kovács
+22/11/1979
+Szentantalfa
+Kinizsi Bank
+105.
+Gáborné Kovács
+14/10/1952
+Szentantalfa
+Kinizsi Bank
+106.
+János Kovács
+25/08/1940
+Mohács
+Mohácsi Bank
+107.
+Miklós Kovács
+(heir: Miklósné Kovács)
+13/12/1951
+Görcsönydoboka
+Mohácsi Bank
+108.
+Andrásné Kraft
+22/09/1949
+Himesháza
+Mohácsi Bank
+109.
+Ádám Krammer
+30/08/1953
+Bátaszék
+Mohácsi Bank
+110.
+Rita Kultné Mátyás
+09/03/1956
+Mohács
+Mohácsi Bank
+111.
+Sándor Kurucz
+13/11/1965
+Veszprém
+Kinizsi Bank
+112.
+Antal Lakatos
+06/08/1963
+Veszprém
+Kinizsi Bank
+113.
+Antal Lakatos ifj.
+13/11/1986
+Veszprém
+Kinizsi Bank
+114.
+Balázs Lakatos
+04/09/1990
+Veszprém
+Kinizsi Bank
+115.
+Eszter Lakatos
+15/07/1985
+Budapest
+Kinizsi Bank
+116.
+Éva Lakatos
+24/11/1960
+Budapest
+Kinizsi Bank
+117.
+Judit Lakatos
+17/12/1986
+Budapest
+Kinizsi Bank
+118.
+Péter Lakatos
+29/06/1985
+Budapest
+Kinizsi Bank
+119.
+László Antalné Lesching
+10/09/1949
+Mohács
+Mohácsi Bank
+120.
+János Link
+28/06/1960
+Geresdlak
+Mohácsi Bank
+121.
+Ádám Lovász
+17/04/1992
+Bóly
+Mohácsi Bank
+122.
+Ildikó Anna Lovász
+13/06/1964
+Bóly
+Mohácsi Bank
+123.
+József Lovász
+26/04/1961
+Bóly
+Mohácsi Bank
+124.
+József Markovics
+16/03/1943
+Mohács
+Mohácsi Bank
+125.
+Lázárné Márton
+28/07/1951
+Gárdony
+Mohácsi Bank
+126.
+Attila Vince Mátrai
+22/12/1953
+Mohács
+Mohácsi Bank
+127.
+Zoltán Mezey
+19/07/1947
+Mohács
+Mohácsi Bank
+128.
+Lajos Mód
+10/02/1942
+Mohács
+Mohácsi Bank
+129.
+Károly Molnár
+29/01/1945
+Dunaszekcső
+Mohácsi Bank
+130.
+Mártonné Molnár
+21/02/1953
+Veszprém
+Kinizsi Bank
+131.
+János Móró
+17/03/1954
+Zánka
+Kinizsi Bank
+132.
+Jánosné Móró
+25/10/1956
+Zánka
+Kinizsi Bank
+133.
+János Múth
+(heir: Edina Kollárné Múth, Jánosné Múth, Melinda Schneiderné Múth)
+22/04/1952
+Geresdlak
+Mohácsi Bank
+134.
+Ambrus Müller
+01/12/1938
+Mohács
+Mohácsi Bank
+135.
+Katalin Müllerlei (changed her name from Katalin Purmann Györgyné)
+04/01/1958
+Somberek
+Mohácsi Bank
+136.
+Béláné Nagy
+11/02/1952
+Lánycsók
+Mohácsi Bank
+137.
+Emilné Nagy
+26/02/1936
+Pécs
+Mohácsi Bank
+138.
+Gáborné Nagy
+22/11/1938
+Nemesvámos
+Kinizsi Bank
+139.
+Lajos Nagy
+26/10/1939
+Kapolcs
+Kinizsi Bank
+140.
+László József Nagy
+30/04/1957
+Nagyvázsony
+Kinizsi Bank
+141.
+Norbert Nagy
+08/04/1982
+Mohács
+Mohácsi Bank
+142.
+Sándor Imréné Nagy
+26/09/1955
+Mohács
+Mohácsi Bank
+143.
+István Német Varga
+13/02/1962
+Homorúd
+Mohácsi Bank
+144.
+Gabriella Nyiröné
+Panghy
+22/10/1960
+Somberek
+Mohácsi Bank
+145.
+István Gábor Nyul
+22/09/1968
+Mohács
+Mohácsi Bank
+146.
+István János Nyul
+24/12/1940
+Mohács
+Mohácsi Bank
+147.
+István Jánosné Nyul
+28/12/1938
+Mohács
+Mohácsi Bank
+148.
+Zoltán István Nyul
+17/02/1967
+Pécs
+Mohácsi Bank
+149.
+Róbert Paizs
+20/01/1978
+Pécs
+Mohácsi Bank
+150.
+Zoltán Pakuzsa
+29/08/1954
+Székelyszabar
+Mohácsi Bank
+151.
+Endre Kálmán Pap
+10/07/1941
+Budapest
+Kinizsi Bank
+152.
+Endre Tamás Pap
+26/04/1972
+Budapest
+Kinizsi Bank
+153.
+Zita Mária Pap
+21/07/1974
+Budapest
+Kinizsi Bank
+154.
+Gábor Papp
+03/10/1972
+Veszprém
+Kinizsi Bank
+155.
+Gáborné Papp
+28/08/1979
+Veszprém
+Kinizsi Bank
+156.
+László Pável
+21/05/1963
+Mohács
+Mohácsi Bank
+157.
+Gábor Pávkovics
+11/10/1969
+Mohács
+Mohácsi Bank
+158.
+Tamás Pávkovics
+31/07/1968
+Mohács
+Mohácsi Bank
+159.
+Erika Anna
+Pávkovicsné Hegedüs
+10/08/1969
+Mohács
+Mohácsi Bank
+160.
+Gitta Szilvia Pávkovicsné
+Szücs
+28/01/1971
+Mohács
+Mohácsi Bank
+161.
+Gyuláné Péter[3]
+15/03/1959
+Somberek
+Mohácsi Bank
+162.
+József Péter
+24/02/1939
+Palotabozsok
+Mohácsi Bank
+163.
+Alexandra Pethes
+21/10/1989
+Véménd
+Mohácsi Bank
+164.
+Csaba Pethes
+25/06/1985
+Véménd
+Mohácsi Bank
+165.
+Csaba Sándor Pethes
+01/06/1958
+Véménd
+Mohácsi Bank
+166.
+Csaba Sándorné Pethes
+19/08/1967
+Véménd
+Mohácsi Bank
+167.
+Balázs Pethö
+17/03/1977
+Balatonfüred
+Kinizsi Bank
+168.
+Csaba Pethö
+09/06/1979
+Balatonfüred
+Kinizsi Bank
+169.
+Jenő Pethö
+24/12/1954
+Balatonfüred
+Kinizsi Bank
+170.
+Ágnes Pethöné Schulcz
+23/08/1956
+Balatonfüred
+Kinizsi Bank
+171.
+Éva Mária Petz
+01/03/1961
+Mohács
+Mohácsi Bank
+172.
+Balázs Pintér
+04/04/1977
+Balatonfüred
+Kinizsi Bank
+173.
+Péter Pintér
+03/05/1975
+Aszófő
+Kinizsi Bank
+174.
+Sándor Pintér
+21/03/1945
+Aszófő
+Kinizsi Bank
+175.
+Renáta Ildikó
+Pongráczné Kovács
+25/11/1977
+Szentantalfa
+Kinizsi Bank
+176.
+Edina Zsuzsanna Rappál
+12/11/1962
+Mohács
+Mohácsi Bank
+177.
+Benjámin Ritzl
+11/12/1991
+Somberek
+Mohácsi Bank
+178.
+Jánosné Ritzl
+11/03/1957
+Görcsönydoboka
+Mohácsi Bank
+179.
+József Ritzl
+29/06/1968
+Somberek
+Mohácsi Bank
+180.
+Albert Rosta
+15/10/1951
+Ajka
+Kinizsi Bank
+181.
+Szilvia Sajnovicsné
+Papp
+09/08/1973
+Pécs
+Mohácsi Bank
+182.
+András Schaffer
+27/06/1984
+Mohács
+Mohácsi Bank
+183.
+Judit Schaffer
+04/09/1987
+Mohács
+Mohácsi Bank
+184.
+Róbert Schaffer
+23/08/1954
+Mohács
+Mohácsi Bank
+185.
+Ferenc János Schauer
+03/10/1948
+Somberek
+Mohácsi Bank
+186.
+András Schmalcz
+30/11/1984
+Budapest
+Mohácsi Bank
+187.
+Ádámné Schmidt
+04/08/1952
+Mohács
+Mohácsi Bank
+188.
+Éva Schmidtné Mári
+03/05/1971
+Dunaszekcső
+Mohácsi Bank
+189.
+Dezső Schwoy
+26/10/1960
+Mohács
+Mohácsi Bank
+190.
+Zsolt Dénesné Simonyi
+31/01/1950
+Pécs
+Mohácsi Bank
+191.
+Ákos Stadler
+20/02/1979
+Veszprém
+Kinizsi Bank
+192.
+Emese Gabriella Stadler
+15/05/1969
+Veszprém
+Kinizsi Bank
+193.
+Ferenc János Stadler
+10/07/1946
+Nemesvámos
+Kinizsi Bank
+194.
+Gábor Stadler
+26/05/1970
+Veszprém
+Kinizsi Bank
+195.
+László Steixner
+26/05/1946
+Szentjakabfa
+Kinizsi Bank
+196.
+Jánosné Stolcz
+23/01/1959
+Geresdlak
+Mohácsi Bank
+197.
+Antal Strenner
+12/07/1963
+Veszprém
+Kinizsi Bank
+198.
+Zoltánné Strenner
+04/10/1935
+Veszprém
+Kinizsi Bank
+199.
+István Svéger
+27/08/1952
+Mohács
+Mohácsi Bank
+200.
+Lajos Szalay
+28/01/1939
+Balatonszőlős
+Kinizsi Bank
+201.
+Zoltán Tamás Szark
+11/01/1967
+Pécs
+Mohácsi Bank
+202.
+Béláné Szekeres
+08/11/1946
+Révfülöp
+Kinizsi Bank
+203.
+Károly Péter Szirom[4]
+02/04/1953
+Pécs
+Mohácsi Bank
+204.
+József Szombati
+10/01/1943
+Nagyvázsony
+Kinizsi Bank
+205.
+Józsefné Szombati
+27/01/1949
+Nagyvázsony
+Kinizsi Bank
+206.
+János Tiborné Takácz
+28/10/1953
+Lánycsók
+Mohácsi Bank
+207.
+László Takácz
+02/04/1964
+Palotabozsok
+Mohácsi Bank
+208.
+Ferencné Takács Nagy
+27/04/1964
+Somberek
+Mohácsi Bank
+209.
+Marianna Takácsné Higli
+13/09/1966
+Veszprém
+Kinizsi Bank
+210.
+Katalin Takácsné Obert
+08/10/1964
+Palotabozsok
+Mohácsi Bank
+211.
+Jánosné Till
+19/01/1953
+Véménd
+Mohácsi Bank
+212.
+Gábor Tamás Torjay
+03/12/1969
+Mohács
+Mohácsi Bank
+213.
+Gábor Tóth
+03/02/1955
+Révfülöp
+Kinizsi Bank
+214.
+Gabriella Tóthné Nyirö
+13/07/1981
+Szekszárd
+Mohácsi Bank
+215.
+József Trapp
+21/01/1957
+Palotabozsok
+Mohácsi Bank
+216.
+Józsefné Trapp
+17/04/1960
+Palotabozsok
+Mohácsi Bank
+217.
+József Troszt
+23/11/1961
+Görcsönydoboka
+Mohácsi Bank
+218.
+Gabriella Tuttiné Merkler
+28/09/1967
+Kölked
+Mohácsi Bank
+219.
+Lászlóné Vajda
+25/09/1959
+Veszprém
+Kinizsi Bank
+220.
+Lőrinc Varga
+25/03/1951
+Nemesvámos
+Kinizsi Bank
+221.
+György Sándor Varga
+29/07/1948
+Lánycsók
+Mohácsi Bank
+222.
+Péter Ferenc Varga
+12/06/1952
+Mohács
+Mohácsi Bank
+223.
+Antalné Várhegyi
+17/01/1947
+Lánycsók
+Mohácsi Bank
+224.
+Gyula Vass
+23/09/1951
+Zánka
+Kinizsi Bank
+225.
+Gyuláné Vass
+27/11/1954
+Zánka
+Kinizsi Bank
+226.
+László Veiner
+09/05/1980
+Zánka
+Kinizsi Bank
+227.
+Tivadar Villányi
+29/04/1958
+Veszprém
+Kinizsi Bank
+228.
+György János Werner
+29/09/1950
+Mohács
+Mohácsi Bank
+229.
+János Werner
+14/04/1954
+Himesháza
+Mohácsi Bank
+230.
+Jánosné Werner
+09/04/1959
+Himesháza
+Mohácsi Bank
+231.
+István Zab
+21/04/1963
+Lánycsók
+Mohácsi Bank
+232.
+Orsolya Zeiler
+13/01/1973
+Romonya
+Mohácsi Bank
+233.
+Mihály Zömbik
+24/07/1954
+Nemesvámos
+Kinizsi Bank
+234.
+Mihály Zömbik ifj.
+25/04/1980
+Nemesvámos
+Kinizsi Bank
+235.
+Nóra Zömbik
+26/03/1987
+Nemesvámos
+Kinizsi Bank
+236.
+Györgyné Zsifkovics
+03/03/1939
+Lánycsók
+Mohácsi Bank
+237.
+János Zsoldos
+17/11/1937
+Balatonszepezd
+Kinizsi Bank
+[1] By a letter received on 29 April 2019 the applicant has informed the Court about the decision to withdraw the case
+[2] By a letter received on 29 April 2019 the applicant has informed the Court about the decision to withdraw the case
+[3] By a letter received on 29 April 2019 the applicant has informed the Court about the decision to withdraw the case
+[4] By a letter received on 29 April 2019 the applicant has informed the Court about the decision to withdraw the case

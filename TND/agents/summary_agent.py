@@ -4,19 +4,21 @@ from transformers import AutoTokenizer
 from nltk import tokenize
 from utils import count_tokens, get_sentences, overlapping_split
 
-ollama_models = {'mixtral:8x7b', ''}
-groq_models = {'llama3-8b-8192', 'llama3-70b-8192', 'mixtral-8x7b-32768', 'gemma-7b-it'}
+ollama_models = {"mixtral:8x7b", ""}
+groq_models = {"llama3-8b-8192", "llama3-70b-8192", "mixtral-8x7b-32768", "gemma-7b-it"}
 
 
 class SummaryAgent:
-    def __init__(self, backend = 'groq', model_name="llama3-8b-8192"):
+    def __init__(self, backend="groq", model_name="llama3-8b-8192"):
         self.model_name = model_name
         self.cache = {}
         self.backend = backend
         self.token_limit = 7500
 
-        if backend == 'groq':
-            self.groq_client = Groq(api_key="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",)
+        if backend == "groq":
+            self.groq_client = Groq(
+                api_key=os.getenv("GROQ_API_KEY"),
+            )
 
     def __str__(self) -> str:
         s = f"SummaryAgent(model_name={self.model_name})"
@@ -24,36 +26,33 @@ class SummaryAgent:
             s += f"\n{key}: {value}"
         return s
 
-
-
-    def get_completion(self, prompt, system_message= "You are a helpful assistant."):
-        
-        if self.backend == 'ollama':
-                response = ollama.chat(
-                        model='llama3:8b', 
-                        messages=[
-                        {"role": "system", "content": system_message},
-                        {"role": "user", "content": prompt},        
-                        ]
-                    )
-                return response['message']['content']
-        elif self.backend == 'groq':
-                chat_completion = self.groq_client.chat.completions.create(
-                    model="llama3-8b-8192",
-                        messages=[
-                        {"role": "system", "content": system_message},
-                        {"role": "user", "content": prompt},        
-                        ]
-                 )
-                return chat_completion.choices[0].message.content
+    def get_completion(self, prompt, system_message="You are a helpful assistant."):
+        if self.backend == "ollama":
+            response = ollama.chat(
+                model="llama3:8b",
+                messages=[
+                    {"role": "system", "content": system_message},
+                    {"role": "user", "content": prompt},
+                ],
+            )
+            return response["message"]["content"]
+        elif self.backend == "groq":
+            chat_completion = self.groq_client.chat.completions.create(
+                model="llama3-8b-8192",
+                messages=[
+                    {"role": "system", "content": system_message},
+                    {"role": "user", "content": prompt},
+                ],
+            )
+            return chat_completion.choices[0].message.content
         else:
             raise ValueError("Please provide a valid inference: 'ollama' or 'groq'")
-        
-       
-    def init_summary(self, prompt, system_message= "You are a helpful assistant."):
-        
+
+    def init_summary(self, prompt, system_message="You are a helpful assistant."):
         print("   init_summary ....")
-        system_message = "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        system_message = (
+            "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        )
 
         user_prompt = f"""
             Could you please provide a summary of the given legal case, including all key points and supporting details?
@@ -62,19 +61,17 @@ class SummaryAgent:
 
             Do not provide any explanations or text apart from the summary.
             case: {prompt}
-            Summary:       
+            Summary:
          """
         response = self.get_completion(user_prompt, system_message)
-        self.cache['summary'] = response 
+        self.cache["summary"] = response
         return response
-    
-
-
 
     def reflect(self, source_text, summary):
-
         print("   reflect ....")
-        system_message = "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        system_message = (
+            "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        )
         reflection_print = f"""
             Your task is to carefully read a source legal text and its legal summary, and then give constructive criticism and helpful suggestions to improve the summary. \
             The final style and tone of the summmary should match the style of legal text.
@@ -94,22 +91,22 @@ class SummaryAgent:
             (ii) conciseness (by removing unnecessary details and repetitions),\n\
             (iii) clarity (by ensuring the summary is easy to understand),\n\
             (iv) coverage (by including all important aspects of the source text).\n\
-            
+
             Write a list of specific, helpful and constructive suggestions for improving the summary.
             Each suggestion should address one specific part of the summary.
             Output only the suggestions and nothing else.
-            
+
             Here is a list of suggestions:
         """
         response = self.get_completion(reflection_print, system_message)
-        self.cache['reflection'] = response
+        self.cache["reflection"] = response
         return response
-        
 
     def improve(self, source_text, summary, reflection):
-        
         print("   improve ....")
-        system_message = "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        system_message = (
+            "You are expert legal lawyer with European Court of Human Rights (ECHR)."
+        )
         reflection_print = f"""
                 Your task is to carefully read, then edit, a legal summary from {source_text} to {summary}, taking into
                 account a list of expert suggestions and constructive criticisms.
@@ -137,33 +134,30 @@ class SummaryAgent:
                 (iv) coverage (by including all important aspects of the source text).
 
                 Output only the new summary and nothing else.
-                
+
                 Here is the revised summary:
             """
         response = self.get_completion(reflection_print, system_message)
-        self.cache['improvment'] = response
+        self.cache["improvment"] = response
         return response
-    
+
     def summarize(self, source_text):
-         
         init_summary = self.init_summary(source_text)
         reflection = self.reflect(source_text, init_summary)
         improved_summary = self.improve(source_text, init_summary, reflection)
 
         return improved_summary
-    
+
     def summarize_list(self, text_list):
-        complete_summary = ''
+        complete_summary = ""
         for text in text_list:
             complete_summary += self.summarize(text)
         return complete_summary
 
-
     def summarize_case(self, legal_case_dict):
-        
-        long_keys = ['procedure', 'law', 'facts', 'conclusion']
+        long_keys = ["procedure", "law", "facts", "conclusion"]
         summarized_legal_case = {}
-        
+
         for key in legal_case_dict:
             if key in long_keys:
                 print(f"Summarizing {key}")
