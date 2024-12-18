@@ -24,7 +24,13 @@ class LegalHelper(BaseTool):
     def _get_prompt(self, case_facts, case_law, question) -> str:
         prompt = f"""You are a specialist in European Court of Human Rights (ECHR) jurisprudence.
 
-            Your task is to answer legal question about legal concepts, doctrines, or interpretations.
+            Your task is to answer legal question given the case facts and law:
+
+            case facts:
+            {case_facts}
+
+            case law:
+            {case_law}
 
             question:
             {question}

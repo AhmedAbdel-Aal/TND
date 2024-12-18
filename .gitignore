@@ -5,6 +5,7 @@
 *.pdf
 .env
 ECHR_tutorial.ipynb
+model.safetensors
 
 
 # python related files
