@@ -1,1 +1,14 @@
+# files
 *.json
+*.env
+*.log
+*.pdf
+.env
+ECHR_tutorial.ipynb
+model.safetensors
+
+
+# python related files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
