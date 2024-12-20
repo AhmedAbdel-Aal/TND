@@ -42,9 +42,6 @@ class CitationExtractor(BaseTool):
             Case Facts:
             {case_facts}
 
-            Case Law Section:
-            {law}
-
             Cited ECHR Cases:
         """
         return prompt
@@ -68,7 +65,7 @@ class CitationExtractor(BaseTool):
     def _run(self, file_path: str = None) -> str:
         # Always use the initialized file path
         file_path = file_path.strip()
-        cached_output = self.check_cache(file_path)
+        cached_output = False  # self.check_cache(file_path)
         if cached_output:
             return cached_output
         try:

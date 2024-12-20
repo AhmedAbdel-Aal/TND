@@ -36,6 +36,7 @@ def transalte_importance_score(importance):
 
 def get_metrics(mode="all"):
     results = os.listdir(results_dir)
+    results = [r for r in results if r.endswith(".json")]
     filtered_results = []
     if mode == "all":
         filtered_results = results
@@ -69,14 +70,14 @@ def get_metrics(mode="all"):
 
 
 if __name__ == "__main__":
-    print("All")
+    # print("All")
     get_metrics("all")
 
     # print('1_2')
-    # get_metrics("1_2")
+    get_metrics("1_2")
 
     # print('1_3')
-    # get_metrics('1_3')
+    get_metrics("1_3")
 
     # print('1_4')
-    # get_metrics('1_4')
+    get_metrics("1_4")

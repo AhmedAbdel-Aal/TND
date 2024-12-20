@@ -18,7 +18,7 @@ from legalHelperTool import LegalHelper
 from FactsReaderTool import CaseFactsReader
 from LawReaderTool import CaseLawReader
 from AgentLogging import AgentLoggingCallback
-from prompts import get_prompt
+from prompts import get_legal_react_prompt
 
 dotenv.load_dotenv()
 
@@ -46,11 +46,6 @@ tools = [
         description="Load and return the case facts.",
     ),
     Tool(
-        name="law_reader",
-        func=CaseLawReader()._run,
-        description="Load and return the case law.",
-    ),
-    Tool(
         name="legal_principle_extractor",
         func=LegalPrincipleExtractor()._run,
         description="Extract key legal principles from the case file.",
@@ -63,11 +58,7 @@ tools = [
     Tool(
         name="legal_helper",
         func=LegalHelper()._run,
-        description="""A tool to answer specific legal questions about ECHR jurisprudence and legal principles.
-    Use this tool to ask focused questions about legal concepts, doctrines, or interpretations that will help  analyze the case.
-    The tool do not have access to the case file.
-    Do NOT ask this tool to determine if a case is key - instead ask specific questions  about legal elements you identify from the principles and citations.
-    To use this tool you must provide [file_path, question] as input.
+        description="""A senior legal expert who answers abstract legal questions about ECHR jurisprudence and legal principles. The legal_helper tool does not have access to the specific case. Use it to refine your understanding of legal principles and precedents.
     """,
     ),
 ]
@@ -75,7 +66,7 @@ tools = [
 
 def run_agent(case_path):
 
-    prompt = get_prompt()
+    prompt = get_legal_react_prompt()
     agent = create_react_agent(llm, tools, prompt)
     # Create the callback handler
     logger = AgentLoggingCallback()
@@ -85,12 +76,15 @@ def run_agent(case_path):
     agent_executor = AgentExecutor(
         agent=agent,
         tools=tools,
-        verbose=False,
+        verbose=True,
         handle_parsing_errors=True,
         callback_manager=callback_manager,
     )
-    leagl_prompt = get_prompt(case_path)
-    result = agent_executor.invoke({"input": leagl_prompt}, {"callbacks": [logger]})
+    leagl_prompt = f"""Classify the importance of the legal case at {case_path}.
+      Your Final Answer: CLASSIFICATION: [NOT KEY CASE or KEY CASE]"""  # get_prompt(case_path)
+    result = agent_executor.invoke(
+        {"input": leagl_prompt, "case_path": case_path}, {"callbacks": [logger]}
+    )
 
     # Return both the result and the logs
     return {"result": result, "logs": logger.logs}
@@ -113,7 +107,8 @@ def read_data():
 
 
 def check_processed_files(output_dir):
-    already_processed_files = os.listdir(output_dir)
+    all_files = os.listdir(output_dir)
+    already_processed_files = [f for f in all_files if f.endswith(".json")]
 
     # remove the prefixs
     already_processed_files = [
@@ -153,19 +148,23 @@ def infere(paths_list, prefix):
         # read the case file
         if file_path in already_processed_files:
             continue
-        case_path = os.path.join(input_data_root, file_path)
-        case_data = load_json(case_path)
+        try:
+            case_path = os.path.join(input_data_root, file_path)
+            case_data = load_json(case_path)
 
-        # run the agent
-        result = run_agent(case_path)
-        result["importance"] = case_data["importance"]
-        result["date"] = case_data["judgementdate"]
+            # run the agent
+            result = run_agent(case_path)
+            result["importance"] = case_data["importance"]
+            result["date"] = case_data["judgementdate"]
 
-        # save the result
-        save_json(os.path.join(output_dir, f"i_{prefix}_case_{file_path}"), result)
+            # save the result
+            save_json(os.path.join(output_dir, f"i_{prefix}_case_{file_path}"), result)
 
-        # sleep to avoid rate limiting
-        time.sleep(60)
+            # sleep to avoid rate limiting
+            time.sleep(3)
+        except Exception as e:
+            print(f"Error processing file {file_path}: {str(e)}")
+            continue
 
 
 def main():
@@ -173,9 +172,9 @@ def main():
     print(f"Number of cases in list 1: {len(list_1)}")
     infere(list_1, "1")
     print(f"Number of cases in list 2: {len(list_2)}")
-    # infere(list_2, "2")
+    infere(list_2, "2")
     print(f"Number of cases in list 3: {len(list_3)}")
-    # infere(list_3, "3")
+    infere(list_3, "3")
     print(f"Number of cases in list 4: {len(list_4)}")
     infere(list_4, "4")
 
