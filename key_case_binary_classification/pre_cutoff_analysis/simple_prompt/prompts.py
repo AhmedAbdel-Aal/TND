@@ -17,7 +17,7 @@ def get_simple_CoT_facts_prompt(**kwargs):
         input_variables=["case_facts"],
         template="""
             You are an experienced legal expert specializing in European Court of Human Rights (ECHR) jurisprudence.
-            Your task is to analyze the provided case facts and classify the case into one of the following categories::
+            Your task is to analyze the provided case facts and classify the case into one of the following categories:
 
             KEY CASE:
             - Makes a significant contribution to the development, clarification, or modification of case law.
