@@ -3,12 +3,19 @@
 *.env
 *.log
 *.pdf
+.DS_Store
 .env
 ECHR_tutorial.ipynb
 model.safetensors
-
-
+.lock
+vector_store/data/
+vector_store/cache/
+chroma.sqlite3
 # python related files
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+# ignore everything in the vector_store directory
+vector_store/data/*
+vector_store/data/chroma_gtr_t5_xl_db/chroma.sqlite3
