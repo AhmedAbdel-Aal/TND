@@ -8,8 +8,8 @@ class GTR:
     def __init__(self):
         self.db = get_db()
 
-    def retrieve(self, query: str, k: int = 5) -> list[tuple[Document, float]]:
-        return self.db.similarity_search_with_score(query, k=k)
+    def retrieve(self, query: str, k: int = 5, filter=None) -> list[tuple[Document, float]]:
+        return self.db.similarity_search_with_score(query, k=k, filter=filter)
 
     @staticmethod
     def remove_par_text_prefix(text: str, case_name: str, paragraph_number: str | int):

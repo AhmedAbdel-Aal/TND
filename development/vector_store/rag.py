@@ -24,7 +24,7 @@ def generate_response(question: str, llm: LLM, retriever: Retriever, k: int = 10
     {paragraphs}
 
     Instructions:
-    Use the retrieved documents to answer the question.
+    Use the retrieved documents to help build your.
     Reuse the language from the documents!
     Cite relevant documents at the end of a sentence!
     Accepted formats: sentence [citation(s)].
