@@ -1,0 +1,10 @@
+importance levels
+/results
+3 prompts per case:
+cost started at:  $24.99  - $22.48 = $2.51
+
+
+levels
+3 prompts per case
+/results=levels
+cost: $17.75 - =

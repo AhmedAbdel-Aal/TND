@@ -1,0 +1,2 @@
+3 prompts per case:
+cost started at: $27.48  - $24.99 = $2.49

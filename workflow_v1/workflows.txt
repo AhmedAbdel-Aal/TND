@@ -1,0 +1,43 @@
+workflow 1: basic workflow with facts and law summaries
+costs: 3.72$
+observation: better than CoT for kc and level 4, level 2 and 3 are almost always classified as kc
+
+workflow 2: basic workflow with full facts and law text
+costs: 2.60$ bec of cache
+observation: full text lead to better distinction for kv vs level 4, level 2 and 3 still challenging
+
+
+XXX===there was a mistake in this workflow===XXX
+XXX==========================================XXX
+workflow 3: workflow 2 but aggregator is with gpt4-o and not gpt4-omini
+starts at: 24.10
+ends at: 21.34
+cost: 2.76
+hypothesis: better model, better distinction for level 3, 4 than workflow 2
+observation: not very much of change (very slightly better can be insignificant), level 2 and 3 still challenging
+XXX==========================================XXX
+
+
+workflow 4: changing the classification prompt with gpt4mini for all
+starts at: 21.34
+ends at: 17.39
+cost: 3.95
+hypothesis: more context in the prompt, better distinction for level 3, 4 than workflow 2
+observation: identifying kc became almost perfect, but level 4 is now very bad, the prompt is baised to
+            classify everything as kc.
+
+
+so far:
+- prompt from workflow 4 is not recommended
+- workflow 2 is cheaper than workflow 3
+- still all workflows are bad for 3 way classification
+- CoT is still better than workflows
+next steps:
+    1.[x] apply workflow 2 for 4 way classification (costs: 17.39 - 15.96 = 2.43$)
+    2.[] repeat workflow 3, there was a mistake (tooo expensive)
+    2.[] check steps from (1), then decide if workflow 5 (workflow2 + gpt-o1) is worth trying (costs: 15.96 -  = $)
+    3.[] workflow 5: do workflow 2 with deepseek
+
+
+
+workflow 5:

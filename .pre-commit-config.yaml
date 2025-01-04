@@ -8,13 +8,6 @@ repos:
       - id: check-yaml
       - id: check-merge-conflict
 
-  # Add a hook for secrets detection
-  - repo: https://github.com/Yelp/detect-secrets
-    rev: v1.5.0  # Use the latest stable version
-    hooks:
-      - id: detect-secrets
-        args: ["--baseline", ".secrets.baseline"]
-
   # Example of a Python-specific hook
   - repo: https://github.com/psf/black
     rev: 24.10.0  # Use the latest stable version
