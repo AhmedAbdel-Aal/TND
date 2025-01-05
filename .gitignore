@@ -33,3 +33,4 @@ cache/
 # unignore results files
 !/Users/ahmed/Desktop/msc-24/TND/reasoning_eval/data/cot_facts_binary_reasonings.json
 !/Users/ahmed/Desktop/msc-24/TND/reasoning_eval/data/cot_facts_law_binary_reasonings.json
+!/Users/ahmed/Desktop/msc-24/TND/kc_classification_data/key_cases_lines/key_cases_lines.json
