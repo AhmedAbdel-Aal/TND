@@ -28,3 +28,8 @@ cache/
 *.pt
 *.pth
 *pickle
+
+
+# unignore results files
+!/Users/ahmed/Desktop/msc-24/TND/reasoning_eval/data/cot_facts_binary_reasonings.json
+!/Users/ahmed/Desktop/msc-24/TND/reasoning_eval/data/cot_facts_law_binary_reasonings.json
