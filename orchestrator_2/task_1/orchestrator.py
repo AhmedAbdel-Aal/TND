@@ -42,6 +42,7 @@ class FlexibleOrchestrator:
         prompt_d1: str,
         case_facts: str,
         case_law: str,
+        backend: str = "openai",
     ):
         """Initialize with prompt templates."""
         self.claim_decomposer_prompt = claim_decomposer_prompt
@@ -52,6 +53,7 @@ class FlexibleOrchestrator:
         self.prompt_d1 = prompt_d1
         self.case_facts = case_facts
         self.case_law = case_law
+        self.backend = backend
 
     def _format_prompt(self, template: str, **kwargs) -> str:
         """Format a prompt template with variables."""
@@ -68,7 +70,7 @@ class FlexibleOrchestrator:
 
         # Step 1: Get orchestrator response
         decomposer_input = self._format_prompt(self.claim_decomposer_prompt, **context)
-        decomposer_response = llm_call(decomposer_input)
+        decomposer_response = llm_call(decomposer_input, self.backend)
 
         # Parse decomposer response
         claims = parse_calims(decomposer_response)
@@ -90,10 +92,10 @@ class FlexibleOrchestrator:
 
             # Run worker LLMs
             print(f'running worker A,B,C1,C2 for claim: {claim_info["article"]} ')
-            worker_a_response = llm_call(worker_a_input)
-            worker_b_response = llm_call(worker_b_input)
-            worker_c1_response = llm_call(worker_c1_input)
-            worker_c2_response = llm_call(worker_c2_input)
+            worker_a_response = llm_call(worker_a_input, self.backend)
+            worker_b_response = llm_call(worker_b_input, self.backend)
+            worker_c1_response = llm_call(worker_c1_input, self.backend)
+            worker_c2_response = llm_call(worker_c2_input, self.backend)
 
             # Extract worker outputs
             relevant_facts = extract_xml(worker_a_response, "relevant_facts")
@@ -116,7 +118,7 @@ class FlexibleOrchestrator:
             # Run the classifier
             print(f'running classifier D1 for claim: {claim_info["article"]} ')
             classification_input = self._format_prompt(self.prompt_d1, **data)
-            classification_response = llm_call(classification_input)
+            classification_response = llm_call(classification_input, self.backend)
 
             contemplator = extract_xml(classification_response, "contemplator")
             classification = extract_xml(classification_response, "classification")

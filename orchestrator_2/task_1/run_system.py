@@ -12,7 +12,8 @@ from util import load_json, save_json
 dotenv.load_dotenv()
 
 input_data_root = "/Users/ahmed/Desktop/msc-24/ECHR/echr-processed"
-output_dir = "/Users/ahmed/Desktop/msc-24/TND/orchestrator_2/task_1/results"
+output_dir = "/Users/ahmed/Desktop/msc-24/TND/orchestrator_2/task_1/results_deepseek"
+backend = "deepseek"
 
 
 def read_data():
@@ -106,6 +107,7 @@ def run_workflow(list):
             prompt_d1=D1,
             case_facts=case_facts,
             case_law=case_law,
+            backend=backend,
         )
 
         list_of_responses = orchestrator.process()

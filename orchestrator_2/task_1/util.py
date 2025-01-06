@@ -2,10 +2,31 @@ from openai import OpenAI
 import os
 import re
 import json
+import dotenv
+
+dotenv.load_dotenv()
 
 
-def llm_call(prompt, model="gpt-4o-mini"):
+def llm_call_deepseek(prompt):
 
+    client = OpenAI(
+        api_key=os.environ["DEEP_SEEK"], base_url="https://api.deepseek.com"
+    )
+    response = client.chat.completions.create(
+        model="deepseek-chat",
+        messages=[
+            {
+                "role": "system",
+                "content": "You are an experienced legal expert specializing in European Court of Human Rights (ECHR) jurisprudence.",
+            },
+            {"role": "user", "content": prompt},
+        ],
+        stream=False,
+    )
+    return response.choices[0].message.content
+
+
+def llm_call_openai(prompt, model="gpt-4o-mini"):
     client = OpenAI()
 
     completion = client.chat.completions.create(
@@ -20,6 +41,15 @@ def llm_call(prompt, model="gpt-4o-mini"):
     )
 
     return completion.choices[0].message.content
+
+
+def llm_call(prompt, beackend, model="gpt-4o-mini"):
+    if beackend == "openai":
+        return llm_call_openai(prompt, model)
+    elif beackend == "deepseek":
+        return llm_call_deepseek(prompt)
+    else:
+        raise ValueError("Invalid backend")
 
 
 def extract_xml(text: str, tag: str) -> str:
