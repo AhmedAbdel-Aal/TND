@@ -1,0 +1,11 @@
+- look at the diagram to know the structure of the workflow.
+
+- Is 'claims' is the best word to use here?
+
+- prompts are not final, need to be tuned.
+
+- A, B workers are highly to be replaced by regex patterns.
+
+- the classifier is a POC, i want to replace it with debating agents
+
+- the classifier prompt is experimental, dont take it too seriously.
