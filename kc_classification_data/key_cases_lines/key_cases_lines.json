@@ -740,7 +740,15 @@
             "outcome": "violation"
         }
     ],
-    "001-186216\nARTICLE 8\nRESPECT FOR PRIVATE LIFE\nDismissal of judge from the position of President of appeal court for failure to\nproperly perform administrative duties: Article 8 not applicable; inadmissible": [],
+    "001-186216":[
+        {
+            "article": "ARTICLE 8",
+            "article subsection": "",
+            "legal category": "RESPECT FOR PRIVATE LIFE",
+            "reason": "Dismissal of judge from the position of President of appeal court for failure to\nproperly perform administrative duties: Article 8 not applicable",
+            "outcome": "inadmissible"
+        }
+    ],    
     "001-188985": [
         {
             "article": "ARTICLE 14",
@@ -1057,7 +1065,7 @@
             "article subsection": "",
             "legal category": "RESPECT FOR FAMILY LIFE",
             "reason": "An employee\u2019s right to respect for private life in the workplace and\nthe limits of the employer\u2019s right to conduct video-surveillance",
-            "outcome": "An employee\u2019s right to respect for private life in the workplace and\nthe limits of the employer\u2019s right to conduct video-surveillance"
+            "outcome": ""
         }
     ],
     "001-177349,": [
