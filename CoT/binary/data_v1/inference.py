@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 ## configs
 input_data_root = "/Users/ahmed/Desktop/msc-24/ECHR/echr-processed"
-output_dir = "./results/"
+output_dir = "./results_deepseek/"
 
 
 def read_data():
@@ -93,7 +93,7 @@ def infere(paths_list):
         save_json(
             output_dir + f'i_{case_data["importance"]}_case_{file_path}', output_result
         )
-        time.sleep(3)
+        # time.sleep(3)
 
 
 def main():

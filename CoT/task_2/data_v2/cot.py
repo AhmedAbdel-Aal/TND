@@ -1,6 +1,10 @@
 from openai import OpenAI
 from typing import Dict
-from prompts import get_CoT_facts_prompt, get_CoT_law_prompt, get_CoT_facts_law_prompt
+from prompts_levels import (
+    get_CoT_facts_prompt,
+    get_CoT_law_prompt,
+    get_CoT_facts_law_prompt,
+)
 
 
 def llm_call_openai(prompt, model="gpt-4o-mini"):
