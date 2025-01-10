@@ -1,2 +1,2 @@
 # TND
-Msc. Thesis: Text Novelity Detection
+Msc. Thesis: ECHR Key Cases Identification using LLM-based agents 
